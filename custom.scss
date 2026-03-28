@@ -1,0 +1,41 @@
+/*-- scss:defaults --*/
+$font-family-sans-serif: "Source Sans Pro", Helvetica, sans-serif;
+$presentation-heading-font: "Source Sans Pro", Helvetica, sans-serif;
+$presentation-heading-color: #1a3a5c;
+$body-color: #2c2c2c;
+$link-color: #c0392b;
+$selection-bg: #1a3a5c;
+
+/*-- scss:rules --*/
+.reveal .slide-logo {
+  bottom: 0.5em;
+  left: 0.5em;
+}
+
+.reveal h1, .reveal h2 {
+  color: #1a3a5c;
+}
+
+.reveal .callout.callout-important {
+  background-color: #fdf2f2;
+  border-left: 4px solid #c0392b;
+}
+
+.reveal .callout.callout-warning {
+  background-color: #fef9e7;
+  border-left: 4px solid #f39c12;
+}
+
+.reveal .callout.callout-tip {
+  background-color: #eafaf1;
+  border-left: 4px solid #27ae60;
+}
+
+.reveal table {
+  font-size: 0.75em;
+}
+
+.reveal .slide-number {
+  font-size: 0.7em;
+  color: #777;
+}
