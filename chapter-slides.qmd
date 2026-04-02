@@ -1,14 +1,8 @@
 ---
 title: "Malaria: *Plasmodium* Species"
-<<<<<<< HEAD
 subtitle: "Chapter 280 — Infectious Diseases & Epidemiology"
-author: "Based on Parikh S & Taylor T, in Mandell's PPID 9th ed."
-date: "2026-03-29"
-=======
-
 author: "Russell E. Lewis"
 date: "01-04-2025"
->>>>>>> fe9bd34432a27f76a80d82fea472bd9b842135d0
 format:
   revealjs:
     theme: [custom.scss]
@@ -26,11 +20,7 @@ format:
     width: 1280
     height: 720
     margin: 0.08
-<<<<<<< HEAD
-bibliography: references.bib
-=======
 bibliography: references-malaria.bib
->>>>>>> fe9bd34432a27f76a80d82fea472bd9b842135d0
 ---
 
 # Malaria {background-color="#9B0014"}
