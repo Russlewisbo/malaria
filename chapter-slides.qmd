@@ -12,7 +12,6 @@ format:
     controls: true
     progress: true
     history: true
-    transition: slide
     background-transition: fade
     highlight-style: github
     fig-cap-location: bottom
@@ -75,10 +74,10 @@ Malaria is transmitted by the bite of Plasmodium-infected female mosquitoes of t
 ::: callout-important
 ## WHO World Malaria Report 2024
 
-- **263 million** cases
-- **597,000 deaths**
-- **94%** of deaths in Africa
-- Most deaths in **young children**
+-   **263 million** cases
+-   **597,000 deaths**
+-   **94%** of deaths in Africa
+-   Most deaths in **young children**
 :::
 
 ::: aside
@@ -97,13 +96,15 @@ Malaria is transmitted by the bite of Plasmodium-infected female mosquitoes of t
 ::: column
 <br> <br>
 
-- **Phylum**: Apicomplexa (with *Babesia*, *Toxoplasma*, *Cryptosporidium*)
-- **Genus**: *Plasmodium*
-- **Distinguishing feature**: Apical organelle complex (micronemes, rhoptries, dense granules) mediates host cell invasion
+-   **Phylum**: Apicomplexa (with *Babesia*, *Toxoplasma*, *Cryptosporidium*)
+-   **Genus**: *Plasmodium*
+-   **Distinguishing feature**: Apical organelle complex (micronemes, rhoptries, dense granules) mediates host cell invasion
 :::
 :::::
 
 ## Six species that infect humans
+
+<br> <br>
 
 | Species              | Subgenus     | Cycle    | Hypnozoites |
 |----------------------|--------------|----------|-------------|
@@ -132,67 +133,64 @@ Malaria is transmitted by the bite of Plasmodium-infected female mosquitoes of t
 7.  Sporogonic cycle in mosquito: \~10-16 days depending on temperature The clinical implications: hypnozoites explain relapse, 24h cycle explains rapid progression in P. knowlesi
 :::
 
-------------------------------------------------------------------------
+## Clinical implications of the life cycle
 
-## Clinical implications of the life cycle {.incremental}
+<br>
 
-- **Incubation period**: 8–25 days (may be longer with partial immunity or prophylaxis)
+-   **Incubation period**: 8–25 days (may be longer with partial immunity or prophylaxis)
 
-- **Hypnozoites** (*P. vivax*, *P. ovale*):
+-   **Hypnozoites** (*P. vivax*, *P. ovale*):
 
-  - Relapses occur months to **years** after initial infection
-  - Cannot be treated by standard ACTs — require primaquine or tafenoquine
+    -   Relapses occur months to **years** after initial infection
+    -   Cannot be treated by standard ACTs — require primaquine or tafenoquine
 
-- **Cyclical fever** reflects synchronous schizont rupture
+-   **Cyclical fever** reflects synchronous schizont rupture
 
-  - *Tertian* (48 h): *P. falciparum*, *P. vivax*, *P. ovale*
-  - *Quartan* (72 h): *P. malariae*
-  - Classic periodicity rarely seen at initial presentation
+    -   *Tertian* (48 h): *P. falciparum*, *P. vivax*, *P. ovale*
+    -   *Quartan* (72 h): *P. malariae*
+    -   Classic periodicity rarely seen at initial presentation
 
-- **Gametocytes** — the transmission stage:
+-   **Gametocytes** — the transmission stage:
 
-  - *P. falciparum*: not infective until mature stage V (10–12 days)
-  - Primaquine destroys mature gametocytes, reducing onward transmission
+    -   *P. falciparum*: not infective until mature stage V (10–12 days)
+    -   Primaquine destroys mature gametocytes, reducing onward transmission
 
-::: notes
-Key teaching points: The long incubation means patients may have forgotten their travel exposure. Always ask about travel in the past 3 months. Hypnozoites mean you MUST treat with an 8-aminoquinoline for P. vivax and P. ovale, otherwise relapses will occur even if the blood-stage infection is cleared.
+::: aside
+The long incubation means patients may have forgotten their travel exposure. Always ask about travel in the past 3 months. Hypnozoites mean you MUST treat with an 8-aminoquinoline for *P. vivax* and *P. ovale*, otherwise relapses will occur even if the blood-stage infection is cleared.
 :::
 
-------------------------------------------------------------------------
+## Global distribution {.center}
 
-## Global Distribution {.center}
+![](images_malaria/map.png){fig-align="center" width="600"}
 
-![](images/fig280-2.png){fig-alt="Global distribution maps of P. falciparum and P. vivax malaria 2022" height="500px"}
+<br> <br>
 
-*PfPR (top): P. falciparum parasite rate. PvPR (bottom): P. vivax parasite rate. Data: Malaria Atlas Project, 2025.*
-
-::: notes
-Key epidemiological points: - Sub-Saharan Africa has 94% of P. falciparum deaths and cases - P. vivax predominates in Central/South America and some parts of South/SE Asia - P. knowlesi is only in SE Asia (Malaysia, Indonesia, Andaman & Nicobar Islands) - Areas of chloroquine-sensitive P. falciparum: Middle East, Central America (west of Panama Canal), Haiti, Dominican Republic - Areas of partial artemisinin resistance: SE Asia (Cambodia, Myanmar, Thailand, Laos, Vietnam), now documented in East Africa
+::: aside
+Key epidemiological points: - Sub-Saharan Africa has 94% of *P. falciparum* deaths and cases - *P. vivax* predominates in Central/South America and some parts of South/SE Asia - *P. knowlesi* is only in SE Asia (Malaysia, Indonesia, Andaman & Nicobar Islands) - Areas of chloroquine-sensitive *P. falciparum*: Middle East, Central America (west of Panama Canal), Haiti, Dominican Republic - Areas of partial artemisinin resistance: SE Asia (Cambodia, Myanmar, Thailand, Laos, Vietnam), now documented in East Africa. PfPR (top): *P. falciparum* parasite rate. PvPR (bottom): *P. vivax* parasite rate. Data: Malaria Atlas Project, 2025.
 :::
 
-------------------------------------------------------------------------
+## Malaria mortality trends: Two decades of progress and setback {.center}
 
-## Malaria Mortality Trends: Two Decades of Progress and Setback {.center}
+<br> <br>
 
-::::: columns
-::: {.column width="50%"}
-### The Great Decline (2000–2015)
+**The Great Decline (2000–2015)**
 
-- Malaria deaths fell from **\~840,000 → \~440,000** (47% reduction)
-- Driven by scale-up of LLINs, ACTs, and IRS
-- LLIN coverage: \<2% → \>60% of at-risk populations
-- ACT replaced failing chloroquine/SP monotherapy
+-   Malaria deaths fell from **\~840,000 → \~440,000** (47% reduction)
+-   Driven by scale-up of LLINs, ACTs, and IRS
+-   LLIN coverage: \<2% → \>60% of at-risk populations
+-   ACT replaced failing chloroquine/SP monotherapy <br> <br>
 
-### The Plateau and Reversal (2015–present)
+**The plateau and reversal (2015–present)**
 
-- Progress **stalled** since 2015; slight increase in cases
-- COVID-19 disruption: estimated **+69 million excess cases** and **+386,000 excess deaths** (2020–2021)
-- Pyrethroid resistance in vectors; artemisinin resistance spreading
-- Chronic underfunding (\$4 billion/year needed vs. \$3 billion available)
-:::
+-   Progress **stalled** since 2015; slight increase in cases
+-   COVID-19 disruption: estimated **+69 million excess cases** and **+386,000 excess deaths** (2020–2021)
+-   Pyrethroid resistance in vectors; artemisinin resistance spreading
+-   Chronic underfunding (\$4 billion/year needed vs. \$3 billion available)
+-   350-500 million per yer cut last year lost from USAID program
 
-::: {.column width="50%"}
-### Global Burden (2023)
+## Global Burden (2023)
+
+<br> <br>
 
 | Metric                    | Value                       |
 |---------------------------|-----------------------------|
@@ -203,103 +201,110 @@ Key epidemiological points: - Sub-Saharan Africa has 94% of P. falciparum deaths
 | Countries with malaria    | 83                          |
 | Pregnancies exposed       | \~36% in WHO African Region |
 
-*A child in Africa dies of malaria approximately every minute.*
+<br> <br>
+
+<center>*"A child in Africa dies of malaria approximately every minute."*</center>
+
+::: aside
+The narrative arc here is crucial: enormous progress was made 2000–2015, but we've hit a wall. The tools that got us here (LLINs + ACTs) are losing effectiveness due to resistance, and new tools (vaccines, next-gen nets, gene drives) are only now becoming available. COVID-19 was a major setback — not just from service disruption but from diverting funding and political attention. Malaria control is fragile: without sustained investment, gains reverse quickly.
 :::
-:::::
 
-::: notes
-The narrative arc here is crucial: enormous progress was made 2000–2015, but we've hit a wall. The tools that got us here (LLINs + ACTs) are losing effectiveness due to resistance, and new tools (vaccines, next-gen nets, gene drives) are only now becoming available. COVID-19 was a major setback — not just from service disruption but from diverting funding and political attention. Emphasize that malaria control is fragile: without sustained investment, gains reverse quickly.
-:::
-
-------------------------------------------------------------------------
-
-## Airport Malaria and Imported Cases {.center}
+## Airport malaria and imported cases {.center}
 
 ::::: columns
 ::: {.column width="50%"}
-### "Suitcase Malaria"
+<br> <br>
 
-- Infected *Anopheles* mosquitoes transported on aircraft
+-   Infected *Anopheles* mosquitoes transported on aircraft
 
-- Cases occur **within 2 km of international airports** in non-endemic countries
+-   Cases occur **within 2 km of international airports** in non-endemic countries
 
-- 
+-   \> 100 documented cases in Europe since 1969
 
-  > 100 documented cases in Europe since 1969
-
-- No travel history → diagnosis often delayed
-
-### Italy (2017): The Sofia Case
-
-- 4-year-old girl in Trento — no travel history
-- Contracted *P. falciparum* in hospital where 2 African children being treated for malaria
-- "It's the first time in my 30-year career that I've seen a case of malaria originating in Trentino"
+-   No travel history → diagnosis often delayed
 :::
 
 ::: {.column width="50%"}
-### Imported Malaria in the US
-
-- **\~2,000 cases/year** (pre-pandemic); \~1,500 in 2020
-- **88%** from sub-Saharan Africa; 8% Asia
-- **75% are VFR travelers** (visiting friends and relatives)
-- VFR travelers: less likely to seek pre-travel advice, less likely to take chemoprophylaxis, may have false sense of immunity
-
-### Other Transmission Routes
-
-- **Blood transfusion** (rare with screening protocols)
-- **Organ transplantation** from endemic-area donors
-- **Congenital** (vertical transmission)
-- **Nosocomial** (contaminated needles/equipment)
+![](images/clipboard-3023901717.png){width="424"}
 :::
 :::::
 
-::: notes
-The VFR traveler group is the most important for US/European clinical practice. They account for 75% of imported cases but are the hardest to reach with pre-travel counseling. Many feel falsely immune because they grew up in an endemic area, but immunity wanes rapidly after emigrating. Ask specifically about adherence — many start prophylaxis but stop early or take doses irregularly.
+## Other Transmission Routes
+
+<br>
+
+-   **Blood transfusion** (rare with screening protocols)
+-   **Organ transplantation** from endemic-area donors
+-   **Congenital** (vertical transmission)
+-   **Nosocomial** (contaminated needles/equipment)
+
+::: aside
+The visiting friends and relatives (VFR) traveler group is the most important for European clinical practice. They account for 75% of imported cases but are the hardest to reach with pre-travel counseling. Many feel falsely immune because they grew up in an endemic area, but immunity wanes rapidly after emigrating. Ask specifically about adherence — many start prophylaxis but stop early or take doses irregularly.
 :::
 
-------------------------------------------------------------------------
-
-## Who Gets Malaria? Key Risk Groups {.incremental}
+## Who gets Malaria? Key risk groups {.incremental}
 
 ### In Endemic Areas:
 
-- **Young children** (under 5): bear the brunt of severe disease
-- **Pregnant women**: placental malaria (CSA-binding variants) → low birth weight, maternal anemia
-- **First-time exposure**: older children, adults in epidemic/low-transmission settings
+-   **Young children** (under 5): bear the brunt of severe disease
+-   **Pregnant women**: placental malaria (CSA-binding variants) → low birth weight, maternal anemia
+-   **First-time exposure**: older children, adults in epidemic/low-transmission settings
 
-### Travelers and Non-Immune Individuals:
+<br>
 
-- All ages equally susceptible to severe disease
-- Typically return from sub-Saharan Africa (88% of US cases) or Asia (8%)
-- \~75% were visiting friends and relatives ("VFR travelers")
+### Travelers and Non-immune individuals:
 
-### United States Context:
+-   All ages equally susceptible to severe disease
+-   Typically return from sub-Saharan Africa (88% of US cases) or Asia (8%)
+-   \~75% were visiting friends and relatives ("VFR travelers")
 
-::: callout-important
-**2023**: First local transmission clusters in 20 years - Florida (7 *P. vivax*), Texas, Arkansas, Maryland - Vector: *Anopheles crucians* in Florida
-:::
+### European Context:
 
-::: notes
-Stress that semi-immune travelers from endemic countries who visit family often don't seek pre-travel advice, underestimate their risk, and are thus at higher risk. They may have partial immunity but their immunity wanes after years in a non-endemic country. This is the largest group of imported malaria in the US.
-:::
+-   Semi-immune travelers from endemic countries who visit family often don't seek pre-travel advice, underestimate their risk, and are thus at higher risk
 
-------------------------------------------------------------------------
+-   They may have partial immunity, but their immunity wanes after years in a non-endemic country
 
-## *Plasmodium falciparum*: Why It's the Killer {.center}
+## *Plasmodium falciparum*: Why it's the killer {.center}
+
+<br> <br>
 
 ::::: columns
 ::: {.column width="50%"}
 ### Unique Pathogenic Features
 
-**Cytoadherence system:** - Infected RBCs express **PfEMP-1** (var genes, \~60 variants) - PfEMP-1 binds endothelium via CD36, ICAM-1, EPCR, CSA - Results in **microvascular obstruction**
+**Cytoadherence system:**
 
-**Rosetting:** - iRBCs bind uninfected RBCs → clusters obstruct capillaries
+-   Infected RBCs express **PfEMP-1** (var genes, \~60 variants)
 
-**High parasitemia:** - Invades all RBC ages → can exceed 10%
+-   PfEMP-1 binds endothelium via CD36, ICAM-1, EPCR, CSA
+
+-   Results in **microvascular obstruction**
+
+**Rosetting:**
+
+-   iRBCs bind uninfected RBCs → clusters obstruct capillaries
+
+-   **High parasitemia:** - Invades all RBC ages → can exceed 10%
 :::
 
 ::: {.column width="50%"}
-### Resulting Pathology
+![](images_malaria/erythrocyteeffect.jpeg){fig-align="center" width="800"}
+:::
+:::::
+
+<br> <br> <br>
+
+::: aside
+The key concept here is that peripheral parasitemia underestimates total body parasite burden because of sequestration. This is why a patient with "only" 5% parasitemia can still be critically ill — there may be much more parasite sequestered in the brain, kidneys, etc. PfHRP2 in plasma better estimates total biomass.
+:::
+
+## Red blood cell rosetting
+
+![](images_malaria/rossetting.png){fig-align="center"}
+
+## Resulting pathology
+
+<br> <br>
 
 | Binding molecule | Syndrome                    |
 |------------------|-----------------------------|
@@ -308,49 +313,43 @@ Stress that semi-immune travelers from endemic countries who visit family often 
 | CD36             | Microvascular sequestration |
 | ICAM-1           | Cerebral/systemic           |
 
-**Total parasite biomass** (including sequestered parasites) \>\> peripheral blood count
-:::
-:::::
+<br> <br>
 
-::: notes
-The key concept here is that peripheral parasitemia underestimates total body parasite burden because of sequestration. This is why a patient with "only" 5% parasitemia can still be critically ill — there may be much more parasite sequestered in the brain, kidneys, etc. PfHRP2 in plasma better estimates total biomass.
-:::
+<center>**Total parasite biomass** (including sequestered parasites) \>\> peripheral blood count</center>
 
-------------------------------------------------------------------------
+## Cerebral malaria: pathophysiology {.center}
 
-## Cerebral Malaria: Pathophysiology {.center}
-
-![](images/fig280-4.png){fig-alt="Cerebral malaria histology and retinal angiography" height="430px"}
+![](images_malaria/fig280-4_cerebral_malaria.png){fig-align="center" width="800"}
 
 *Left: Brain histology showing sequestration of parasitized erythrocytes (autopsy). Right: Fluorescein angiography showing retinal whitening (whitened vessels = occluded, nonperfused).*
 
-::: notes
-These are remarkable images from Malawi studies. The histology (Milner et al., JID 2012) shows parasitized RBCs packed into cerebral capillaries. The retinal photos (Beare et al., JID 2009) demonstrate that malarial retinopathy is a specific marker of cerebral malaria — the absence of retinopathy should redirect attention to non-malarial coma etiologies. Malarial retinopathy features: vessel color changes, white-centered hemorrhages, retinal whitening.
+<br> <br> <br>
+
+::: aside
+These are remarkable images from Malawi studies. The histology shows parasitized RBCs packed into cerebral capillaries. The retinal photos demonstrate that malarial retinopathy is a specific marker of cerebral malaria — the absence of retinopathy should redirect attention to non-malarial coma etiologies. Malarial retinopathy features: vessel color changes, white-centered hemorrhages, retinal whitening [@BeareTaylor2009; @MilnerValim2012].
 :::
 
-------------------------------------------------------------------------
+## Naturally acquired immunity ("Premunition")
 
-## Naturally Acquired Immunity ("Premunition") {.center}
+<br> <br>
 
-::::: columns
-::: {.column width="55%"}
-### How Immunity Develops
+**How immunity develops**
 
-- Mediated by **IgG antibodies** against PfEMP-1 variants, CSP, and merozoite surface proteins
-- Requires **years of repeated exposure** in endemic areas
-- Each infection exposes immune system to a subset of \~60 var gene variants
-- Cumulative repertoire eventually covers the local PfEMP-1 variant spectrum
-- Results in **"disease-controlling immunity"** — not sterilizing
+-   Mediated by **IgG antibodies** against PfEMP-1 variants, CSP, and merozoite surface proteins
+-   Requires **years of repeated exposure** in endemic areas
+-   Each infection exposes immune system to a subset of \~60 var gene variants
+-   Cumulative repertoire eventually covers the local PfEMP-1 variant spectrum
+-   Results in **"disease-controlling immunity"** — not sterilizing
 
-### Key Features
+<br> **Key features**
 
-- Reduces **severity**, not **infection**
-- Parasites still circulate but at low density
-- **Rapidly lost** without ongoing exposure (months to a few years)
-:::
+-   Reduces **severity**, not **infection**
+-   Parasites still circulate but at low density
+-   **Rapidly lost** without ongoing exposure (months to a few years)
 
-::: {.column width="45%"}
-### Clinical Implications
+## Clinical implications of malaria premunition
+
+<br> <br>
 
 | Population | Immunity | Risk |
 |------------------------|------------------------|------------------------|
@@ -359,22 +358,20 @@ These are remarkable images from Malawi studies. The histology (Milner et al., J
 | Emigrants from endemic areas (years later) | Waned | At risk again |
 | Non-immune travelers | None | Severe disease at any age |
 | Pregnant women (primigravida) | Reduced for placental variants | Placental malaria |
-:::
-:::::
 
-::: notes
+<br> <br>
+
+::: aside
 Premunition is an important concept: it's not like measles immunity. It's "anti-disease" immunity rather than "anti-infection" immunity. People in endemic areas still harbor parasites — they just don't get sick. This has implications for control: as transmission drops, immunity wanes, and communities become vulnerable again. Emigrants who return to visit family are at particular risk because they've lost their premunition.
 :::
 
-------------------------------------------------------------------------
+## Host genetic factors: Malaria's evolutionary legacy
 
-## Host Genetic Factors: Malaria's Evolutionary Legacy {.center}
+<br>
 
 Malaria = **strongest known evolutionary selection force** on the human genome
 
-:::::: columns
-::: {.column width="50%"}
-### Protective Traits (Heterozygote Advantage)
+**Protective traits (Heterozygote advantage)**
 
 | Trait | Protection | Mechanism |
 |------------------------|------------------------|------------------------|
@@ -385,100 +382,108 @@ Malaria = **strongest known evolutionary selection force** on the human genome
 | **Hemoglobin E** (HbAE) | Variable | Common in SE Asia |
 | **Duffy-negative** (Fy a−b−) | \~100% vs. Pv | Blocks P. vivax RBC invasion receptor |
 | **SAO** (ovalocytosis) | Variable | Altered RBC membrane |
-:::
 
-:::: {.column width="50%"}
-### Clinical Implications
+## Clinical implications of host genetic factors
 
-- These traits reach **carrier frequencies of 5–25%** in endemic regions — balanced polymorphism
-- **Sickle cell disease** (HbSS): homozygous disadvantage but heterozygous carriers (HbAS) strongly protected
-- **G6PD testing** is critical before prescribing primaquine/tafenoquine → hemolytic crisis in deficient patients
-- **Duffy negativity** explains why *P. vivax* is rare in West Africa (\>95% Duffy-negative)
-- These genetic factors explain striking **geographic variation** in malaria susceptibility
+<br> <br>
+
+-   These traits reach **carrier frequencies of 5–25%** in endemic regions — balanced polymorphism
+-   **Sickle cell disease** (HbSS): homozygous disadvantage but heterozygous carriers (HbAS) strongly protected
+-   **G6PD testing** is critical before prescribing primaquine/tafenoquine → hemolytic crisis in deficient patients
+-   **Duffy negativity** explains why *P. vivax* is rare in West Africa (\>95% Duffy-negative)
+-   These genetic factors explain striking **geographic variation** in malaria susceptibility
+
+<br> <br>
 
 ::: callout-note
-Malaria has shaped more human genetic diversity than any other infectious disease — a fact that links evolutionary biology directly to bedside medicine.
+Malaria has shaped more human genetic diversity than any other infectious disease
 :::
-::::
-::::::
 
-------------------------------------------------------------------------
+## Complications of severe *P. falciparum* malaria {.smaller}
 
-## Complications of Severe *P. falciparum* Malaria {.center}
+<br> <br>
 
 ::::: columns
 ::: {.column width="50%"}
-### Cerebral Malaria
+### Cerebral malaria
 
-- GCS \<11 (adults) / Blantyre \<3 (children)
-- **Malarial retinopathy**: pathognomonic (white-centered hemorrhages, vessel changes)
-- Recovery often within **24–48 h** of effective therapy (unlike thrombotic stroke)
-- Mortality **15–20%** even with optimal treatment
-- 10–15% of survivors: persistent neurological sequelae
+-   GCS \<11 (adults) / Blantyre \<3 (children)
+-   **Malarial retinopathy**: pathognomonic (white-centered hemorrhages, vessel changes)
+-   Recovery often within **24–48 h** of effective therapy (unlike thrombotic stroke)
+-   Mortality **15–20%** even with optimal treatment
+-   10–15% of survivors: persistent neurological sequelae <br>
 
-### Severe Malarial Anemia
+<br>
 
-- Hemolysis + phagocytic removal + bone marrow suppression
-- **Normocytic normochromic** with blunted reticulocyte response
-- Hb ≤5 g/dL (children) or ≤7 g/dL (adults) + parasitemia \>10,000/μL
-- Transfusion often needed; recovery may take weeks
+### Severe malarial anemia
+
+-   Hemolysis + phagocytic removal + bone marrow suppression
+-   **Normocytic normochromic** with blunted reticulocyte response
+-   Hb ≤5 g/dL (children) or ≤7 g/dL (adults) + parasitemia \>10,000/μL
+-   Transfusion often needed; recovery may take weeks
 :::
 
 ::: {.column width="50%"}
-### Metabolic/Renal
+### Metabolic/renal
 
-- **Metabolic acidosis**: Best predictor of mortality (lactate ≥5 mmol/L)
-  - Tissue hypoxia from anemia + sequestration + hypovolemia
-- **Hypoglycemia**: Children (↓gluconeogenesis, ↑glucose consumption); Adults (quinine-induced hyperinsulinemia)
-  - Check glucose **q1–2h** for first 24 hours
-- **AKI**: ATN pattern; hemoglobinuria ("blackwater fever"); often requires dialysis
+-   **Metabolic acidosis**: Best predictor of mortality <br> (lactate ≥5 mmol/L)
+    -   Tissue hypoxia from anemia + sequestration + hypovolemia
+-   **Hypoglycemia**: Children (↓gluconeogenesis, ↑glucose consumption); Adults (quinine-induced hyperinsulinemia)
+    -   Check glucose **q1–2h** for first 24 hours
+-   **AKI**: ATN pattern; hemoglobinuria ("blackwater fever"); often requires dialysis
+
+<br>
 
 ### Pulmonary
 
-- **Non-cardiogenic pulmonary edema / ARDS**: Sequestration in pulmonary capillaries → endothelial damage
-- Can develop **after** parasite clearance
-- Restrict IV fluids (FEAST trial lesson)
+-   **Non-cardiogenic pulmonary edema / ARDS**: Sequestration in pulmonary capillaries → endothelial damage
+-   Can develop **after** parasite clearance
+-   Restrict IV fluids (FEAST trial lesson)
+
+<br>
 
 ### Other
 
-- **DIC/bleeding**: Rare (\<5%) but high mortality
-- **Shock**: Bacterial co-infection in 5–8%
+-   **DIC/bleeding**: Rare (\<5%) but high mortality
+-   **Shock**: Bacterial co-infection in 5–8%
 :::
 :::::
 
-::: notes
-Walk through each complication with the pathophysiology. Key teaching points: (1) Metabolic acidosis is the single best predictor of death — better than parasitemia. (2) Hypoglycemia is rapidly reversible but commonly missed — always check glucose on admission. (3) Pulmonary edema can worsen paradoxically AFTER treatment starts — be cautious with IV fluids. (4) Bacterial co-infection is common enough that empiric antibiotics should be started in shocked patients.
+<br> <br> <br>
+
+::: aside
+Metabolic acidosis is the single best predictor of death — better than parasitemia.Hypoglycemia is rapidly reversible but commonly missed — always check glucose on admission.Pulmonary edema can worsen paradoxically AFTER treatment starts — be cautious with IV fluids.Bacterial co-infection is common enough that empiric antibiotics should be started in shocked patients.
 :::
 
-------------------------------------------------------------------------
+## Malaria in pregnancy: A special challenge {.center}
 
-## Malaria in Pregnancy: A Special Challenge {.center}
+<br> <br>
 
 :::::: columns
 ::: {.column width="55%"}
-### Placental Malaria
+### Placental malaria
 
-- *P. falciparum* expresses **VAR2CSA** PfEMP-1 variant
-- VAR2CSA binds **chondroitin sulfate A (CSA)** in placenta
-- Infected RBCs accumulate in **intervillous space** → placental inflammation → impaired nutrient transfer
+-   *P. falciparum* expresses **VAR2CSA** PfEMP-1 variant
+-   VAR2CSA binds **chondroitin sulfate A (CSA)** in placenta
+-   Infected RBCs accumulate in **intervillous space** → placental inflammation → impaired nutrient transfer
 
 ### Consequences
 
-- Maternal: severe anemia, hypoglycemia, cerebral malaria
-- Fetal: **low birth weight** (most important), intrauterine growth restriction, preterm delivery, spontaneous abortion
-- Neonatal: increased mortality
+-   Maternal: severe anemia, hypoglycemia, cerebral malaria
+-   Fetal: **low birth weight** (most important), intrauterine growth restriction, preterm delivery, spontaneous abortion
+-   Neonatal: increased mortality
 
-### Immunity Develops with Parity
+### Immunity develops with parity
 
-- Primigravidae: highest risk (no anti-VAR2CSA antibodies)
-- Multigravidae: progressively protected by antibodies
+-   Primigravidae: highest risk (no anti-VAR2CSA antibodies)
+-   Multigravidae: progressively protected by antibodies
 :::
 
 :::: {.column width="45%"}
-### Prevention in Endemic Areas
+### Prevention in endemic areas
 
 ::: callout-important
-## WHO-Recommended Bundle
+## WHO-becommended bundle
 
 1.  **IPTp-SP** at every ANC visit from 2nd trimester
 2.  **LLIN** provided at first ANC visit
@@ -487,60 +492,75 @@ Walk through each complication with the pathophysiology. Key teaching points: (1
 
 ### Treatment Considerations
 
-- **Hospitalize all pregnant women** with confirmed malaria
-- 2nd/3rd trimester: ACTs (artemether-lumefantrine preferred)
-- 1st trimester: AL now recommended by CDC if alternatives unavailable
-- **Avoid**: doxycycline, primaquine, tafenoquine
-- Delay antirelapse therapy until postpartum
+-   **Hospitalize all pregnant women** with confirmed malaria
+-   2nd/3rd trimester: ACTs (artemether-lumefantrine preferred)
+-   1st trimester: AL now recommended by CDC if alternatives unavailable
+-   **Avoid**: doxycycline, primaquine, tafenoquine
+-   Delay antirelapse therapy until postpartum
 ::::
 ::::::
 
-::: notes
-Pregnancy-associated malaria is a major cause of maternal and neonatal morbidity in sub-Saharan Africa. In 2022, 36% of pregnancies in 33 moderate-high transmission African countries were exposed to malaria. The VAR2CSA story is elegant — it explains why first pregnancies are most affected and why protection develops with parity. IPTp-SP is one of the most cost-effective interventions in global health.
+<br> <br> <br> <br> <br>
+
+::: aside
+Pregnancy-associated malaria is a major cause of maternal and neonatal morbidity in sub-Saharan Africa. In 2022, 36% of pregnancies in 33 moderate-high transmission African countries were exposed to malaria. The VAR2CSA explains why first pregnancies are most affected and why protection develops with parity. IPTp-SP is one of the most cost-effective interventions in global health.ANC-Antenatal care visit; IPTp-SP- Intermittent Preventive Treatment in Pregnancy with Sulfadoxine-Pyrimethamine;LLIN- Long lasting insecticidal net, ACT- Artemisinin-based Combination Therapy; AL- Artemether-Lumefantrin
 :::
 
-------------------------------------------------------------------------
+## *Plasmodium vivax* and *ovale*: Special features
 
-## *Plasmodium vivax* and *ovale*: Special Features {.incremental}
+<br> <br>
 
 ::::: columns
-::: {.column width="55%"}
+::: {.column width="50%"}
 ### Hypnozoite Biology
 
-- Dormant liver forms activate months to **years** after exposure
-- Relapses usually within **3 years**; rare after 5 years
-- Not detectable by blood-stage tests
-- Cannot be treated by ACTs alone → must add primaquine or tafenoquine
+<br>
+
+-   Dormant liver forms activate months to **years** after exposure
+-   Relapses usually within **3 years**; rare after 5 years
+-   Not detectable by blood-stage tests
+-   Cannot be treated by ACTs alone → must add primaquine or tafenoquine
 
 ### Pathophysiology
 
-- Selectively invades **reticulocytes** → parasitemia usually **\<1%**
-- Recent evidence: asexual stages cytoadhere to lung endothelium → pulmonary pathology
-- Total parasite biomass \>\> peripheral parasitemia (bone marrow, spleen)
+<br>
+
+-   Selectively invades **reticulocytes** → parasitemia usually **\<1%**
+-   Recent evidence: asexual stages cytoadhere to lung endothelium → pulmonary pathology
+-   Total parasite biomass \>\> peripheral parasitemia (bone marrow, spleen)
 :::
 
-::: {.column width="45%"}
+::: {.column width="50%"}
+![](images_malaria/hyponozoites.png)
+:::
+:::::
+
+## *Plasmodium vivax* and *ovale*: Special features
+
+<br> <br>
+
 ### Duffy Antigen (DARC)
 
 Critical receptor for *P. vivax* invasion
 
-- **DARC-negative** (common in West Africa) → relative resistance
-- But *P. vivax* can still infect DARC-negative individuals at lower parasitemias
-- Transferrin receptor 1 recently identified as a reticulocyte-specific receptor
+-   **DARC-negative** (common in West Africa) → relative resistance
+-   But *P. vivax* can still infect DARC-negative individuals at lower parasitemias
+-   Transferrin receptor 1 recently identified as a reticulocyte-specific receptor
 
-### P. ovale
+<br>
 
-Two sibling species (curtisi, wallikeri) — cannot be distinguished clinically, only by molecular methods
+## P. ovale
+
+-   Two sibling species (curtisi, wallikeri)
+    -   Cannot be distinguished clinically, only by molecular methods <br>
+
+::: aside
+Clinical pearl: A patient who returned from West Africa 2 years ago with fever — *P. vivax* is possible! *P. vivax* can infect DARC-negative individuals, though less commonly. Severe *P. vivax* malaria is real, particularly ARDS and severe anemia.
 :::
-:::::
 
-::: notes
-Clinical pearl: A patient who returned from West Africa 2 years ago with fever — P. vivax is possible! P. vivax can infect DARC-negative individuals, though less commonly. Also emphasize that severe P. vivax malaria is real, particularly ARDS and severe anemia.
-:::
+## *P. malariae* and *P. knowlesi*: Key points {.center}
 
-------------------------------------------------------------------------
-
-## *P. malariae* and *P. knowlesi*: Key Points {.center}
+<br> <br>
 
 ::::: columns
 ::: {.column width="50%"}
@@ -548,12 +568,14 @@ Clinical pearl: A patient who returned from West Africa 2 years ago with fever �
 
 **"The Long Persistent Parasite"**
 
-- Quartan (72-hour) cycle
-- Prefers **older erythrocytes**
-- Parasitemia typically very low (often below microscopy threshold)
-- Can persist **asymptomatically for decades**
-- No hypnozoites — but persistent low-level blood-stage infection
-- Generally mild disease, but can cause nephrotic syndrome (immune complex deposition)
+<br>
+
+-   Quartan (72-hour) cycle
+-   Prefers **older erythrocytes**
+-   Parasitemia typically very low <br> (often below microscopy threshold)
+-   Can persist **asymptomatically for decades**
+-   No hypnozoites — but persistent low-level blood-stage infection
+-   Generally mild disease, but can cause nephrotic syndrome (immune complex deposition)
 :::
 
 ::: {.column width="50%"}
@@ -561,55 +583,106 @@ Clinical pearl: A patient who returned from West Africa 2 years ago with fever �
 
 **"The Zoonotic Danger"**
 
-- **Zoonosis** from long- and pig-tailed macaques
-- Found only in SE Asia (Malaysia, Indonesia, Andaman Islands)
-- **24-hour replication cycle** → rapid parasitemia rise
-- Mimics *P. malariae* morphologically (molecular testing required)
-- Hyperparasitemia: \>2% (\>100,000/μL) = severe
-- Severe disease: jaundice, AKI — more common than in *P. vivax*
+<br>
+
+-   **Zoonosis** from long- and pig-tailed macaques
+-   Found only in SE Asia (Malaysia, Indonesia, Andaman Islands)
+-   **24-hour replication cycle** → rapid parasitemia rise
+-   Mimics *P. malariae* morphologically (molecular testing required)
+-   Hyperparasitemia: \>2% (\>100,000/μL) = severe
+-   Severe disease: jaundice, AKI — more common than in *P. vivax*
 :::
 :::::
 
-::: notes
-P. malariae causing decades-long infection is clinically important: A patient who emigrated from a malaria-endemic region 20 years ago can still have P. malariae. P. knowlesi is a diagnostic trap — it looks like P. malariae on microscopy but has a 24-hour cycle. If you see P. malariae morphology in a patient from SE Asia, you must confirm with PCR. The 24-hour cycle means the patient can look fine in the morning and be in multi-organ failure by evening.
+::: aside
+*P. malariae* causing decades-long infection is clinically important: A patient who emigrated from a malaria-endemic region 20 years ago can still have P. malariae. P. knowlesi is a diagnostic trap — it looks like *P. malariae* on microscopy but has a 24-hour cycle. If you see P. malariae morphology in a patient from SE Asia, you must confirm with PCR. The 24-hour cycle means the patient can look fine in the morning and be in multi-organ failure by evening.
 :::
 
-------------------------------------------------------------------------
+## The spectrum of malaria infection {.center}
 
-## The Spectrum of Malaria Infection {.center}
+<br>
 
-```         
-Asymptomatic     Uncomplicated        Severe Malaria        Death
-Parasitemia  →   Malaria          →   (multi-organ)     →
-     ↑                                                        ↑
-High endemic,     Fever, headache,     Cerebral malaria,     Untreated/
-repeated          malaise, chills      severe anemia,        delayed
-exposure          "flu-like"           ARDS, AKI             treatment
+```{=html}
+<div style="display: flex; align-items: flex-start; gap: 0; font-family: sans-serif; font-size: 0.85em; margin: 1.5em 0;">
+
+  <!-- Stage 1 -->
+  <div style="flex: 1; text-align: center;">
+    <div style="background: #e8f5e9; border: 2px solid #66bb6a; border-radius: 8px; padding: 0.6em 0.4em; font-weight: bold; color: #2e7d32;">
+      Asymptomatic<br>Parasitemia
+    </div>
+    <div style="color: #555; margin-top: 0.5em; font-size: 0.9em;">
+      High endemic,<br>repeated<br>exposure
+    </div>
+  </div>
+
+  <!-- Arrow -->
+  <div style="display: flex; align-items: center; padding: 0 0.3em; margin-top: 0.4em; color: #888; font-size: 1.4em;">→</div>
+
+  <!-- Stage 2 -->
+  <div style="flex: 1; text-align: center;">
+    <div style="background: #fff8e1; border: 2px solid #ffca28; border-radius: 8px; padding: 0.6em 0.4em; font-weight: bold; color: #f57f17;">
+      Uncomplicated<br>Malaria
+    </div>
+    <div style="color: #555; margin-top: 0.5em; font-size: 0.9em;">
+      Fever, headache,<br>malaise, chills<br><em>"flu-like"</em>
+    </div>
+  </div>
+
+  <!-- Arrow -->
+  <div style="display: flex; align-items: center; padding: 0 0.3em; margin-top: 0.4em; color: #888; font-size: 1.4em;">→</div>
+
+  <!-- Stage 3 -->
+  <div style="flex: 1; text-align: center;">
+    <div style="background: #fce4ec; border: 2px solid #ef5350; border-radius: 8px; padding: 0.6em 0.4em; font-weight: bold; color: #c62828;">
+      Severe Malaria<br><span style="font-weight: normal; font-size: 0.9em;">(multi-organ)</span>
+    </div>
+    <div style="color: #555; margin-top: 0.5em; font-size: 0.9em;">
+      Cerebral malaria,<br>severe anemia,<br>ARDS, AKI
+    </div>
+  </div>
+
+  <!-- Arrow -->
+  <div style="display: flex; align-items: center; padding: 0 0.3em; margin-top: 0.4em; color: #888; font-size: 1.4em;">→</div>
+
+  <!-- Stage 4 -->
+  <div style="flex: 1; text-align: center;">
+    <div style="background: #f3e5f5; border: 2px solid #ab47bc; border-radius: 8px; padding: 0.6em 0.4em; font-weight: bold; color: #6a1b9a;">
+      Death
+    </div>
+    <div style="color: #555; margin-top: 0.5em; font-size: 0.9em;">
+      Untreated /<br>delayed<br>treatment
+    </div>
+  </div>
+
+</div>
 ```
 
 ::: callout-important
 ## Key Clinical Rule
 
-**All non-immune travelers from a malaria-endemic area within the past 3 months who present with fever should be considered to have malaria until proven otherwise — regardless of prophylaxis taken.**
+All non-immune travelers from a malaria-endemic area within the past 3 months who present with fever should be considered to have malaria until proven otherwise — **regardless of prophylaxis taken.**
 :::
 
-- Time to severe malaria: can be **hours** in *P. falciparum*
-- All non-immune patients with confirmed malaria should be **hospitalized**
+-   Time to severe malaria: can be **hours P. falciparum**
+-   All non-immune patients with confirmed malaria should be **hospitalized**
 
-::: notes
-Stress the speed of progression. P. falciparum uncomplicated malaria can become cerebral malaria within hours. This is why we hospitalize all non-immune patients — you simply cannot safely observe them outpatient. The 3-month rule is critical but not absolute — P. vivax relapses can occur years later.
+<br> <br> <br>
+
+::: aside
+*P. falciparum* uncomplicated malaria can become cerebral malaria within hours. This is why we hospitalize all non-immune patients — you simply cannot safely observe them outpatient. The 3-month rule is critical but not absolute — *P. vivax* relapses can occur years later.
 :::
 
-------------------------------------------------------------------------
 
-## Uncomplicated Malaria: Clinical Features {.incremental}
+## Uncomplicated malaria: Clinical features 
+<br>
 
 ### Symptoms
 
-- **Fever** (often \>39–40°C), chills, rigors, sweating
-- Headache, myalgia, arthralgia, malaise, fatigue
-- Nausea, vomiting, abdominal pain
-- Mild splenomegaly with repeated infections
+-   **Fever** (often \>39–40°C), chills, rigors, sweating
+-   Headache, myalgia, arthralgia, malaise, fatigue
+-   Nausea, vomiting, abdominal pain
+-   Mild splenomegaly with repeated infections
+<br>
 
 ### The Classic Paroxysm (rare at presentation)
 
@@ -617,14 +690,15 @@ Stress the speed of progression. P. falciparum uncomplicated malaria can become 
 2.  **Hot stage**: high fever, headache, vomiting (2–6 h)
 3.  **Sweating stage**: profuse sweating, fatigue (2–4 h)
 
+<br>
 ### What Is Typically ABSENT
 
-- Cough, rhinorrhea, upper respiratory symptoms
-- Pulmonary consolidation
-- Rash
-- Lymphadenopathy
+-   Cough, rhinorrhea, upper respiratory symptoms
+-   Pulmonary consolidation
+-   Rash
+-   Lymphadenopathy
 
-::: notes
+::: aside
 The classic paroxysm occurs only when infection is synchronous, which takes several days to develop. Most patients at presentation have continuous or irregular fever. The absence of respiratory symptoms is a helpful distinguishing feature from viral URTI, but many patients will initially be diagnosed as viral illness.
 :::
 
@@ -636,12 +710,12 @@ The classic paroxysm occurs only when infection is synchronous, which takes seve
 
 | Manifestation | Threshold |
 |------------------------------------|------------------------------------|
-| 🧠 **Impaired consciousness** | GCS \<11 adults; Blantyre \<3 children |
-| 😰 **Prostration** | Unable to sit/stand/walk without assistance |
-| ⚡ **Multiple convulsions** | \>2 fits in 24 hours |
-| 🫁 **Metabolic acidosis** | Base deficit \>8 mEq/L, or bicarb \<15, or lactate ≥5 mmol/L |
-| 🩸 **Hypoglycemia** | Glucose \<2.2 mmol/L (\<40 mg/dL) |
-| ❤️‍🩹 **Severe malarial anemia** | Hgb ≤5 g/dL (children) / \<7 g/dL (adults) + parasitemia |
+| **Impaired consciousness** | GCS \<11 adults; Blantyre \<3 children |
+| **Prostration** | Unable to sit/stand/walk without assistance |
+| *Multiple convulsions** | \>2 fits in 24 hours |
+| **Metabolic acidosis** | Base deficit \>8 mEq/L, or bicarb \<15, or lactate ≥5 mmol/L |
+| **Hypoglycemia** | Glucose \<2.2 mmol/L (\<40 mg/dL) |
+| **Severe malarial anemia** | Hgb ≤5 g/dL (children) / \<7 g/dL (adults) + parasitemia |
 
 ::: callout-important
 **Adapted from WHO Guidelines for Malaria, October 2023**
@@ -653,12 +727,12 @@ The classic paroxysm occurs only when infection is synchronous, which takes seve
 
 | Manifestation | Threshold |
 |------------------------------------|------------------------------------|
-| 🫘 **Renal impairment** | Creatinine \>265 μmol/L (3 mg/dL) or urea \>20 mmol/L |
-| 🟡 **Jaundice** | Bilirubin \>50 μmol/L with high parasite count |
-| 💨 **Pulmonary edema** | Radiographic confirmation, or SpO₂ \<92% with RR \>30 |
-| 🩸 **Significant bleeding** | Hematemesis, melena, prolonged bleeding |
-| 💔 **Shock** | *Decompensated*: SBP \<80 mmHg adults, \<70 mmHg children |
-| 🔬 **Hyperparasitemia** | *P. falciparum* \>10%; *P. knowlesi* \>100,000/μL |
+| **Renal impairment** | Creatinine \>265 μmol/L (3 mg/dL) or urea \>20 mmol/L |
+| **Jaundice** | Bilirubin \>50 μmol/L with high parasite count |
+| **Pulmonary edema** | Radiographic confirmation, or SpO₂ \<92% with RR \>30 |
+| **Significant bleeding** | Hematemesis, melena, prolonged bleeding |
+| **Shock** | *Decompensated*: SBP \<80 mmHg adults, \<70 mmHg children |
+| **Hyperparasitemia** | *P. falciparum* \>10%; *P. knowlesi* \>100,000/μL |
 
 ::: callout-warning
 **In severe malaria: START TREATMENT FIRST. Diagnostic confirmation is important but should not delay therapy.**
@@ -754,11 +828,11 @@ In practice: A patient presenting with fever after travel to Africa gets a thin+
 
 ### Ancillary Laboratory Findings in Malaria
 
-- **Thrombocytopenia** (\<150 × 10⁹/L) — present in **60–80%** of cases; strongly suggestive (sensitivity 60%, specificity 88% for malaria vs. other febrile illness)
-- **Elevated LDH and indirect bilirubin** — markers of hemolysis
-- **Normocytic normochromic anemia** — from hemolysis + bone marrow suppression (↓erythropoietin by TNF-α)
-- **Metabolic acidosis** (base deficit \>8, lactate ≥5 mmol/L) — key severity marker
-- **Hypoglycemia** (\<2.2 mmol/L adults; \<3 mmol/L children \<5 y) — check on admission and q1-2h
+-   **Thrombocytopenia** (\<150 × 10⁹/L) — present in **60–80%** of cases; strongly suggestive (sensitivity 60%, specificity 88% for malaria vs. other febrile illness)
+-   **Elevated LDH and indirect bilirubin** — markers of hemolysis
+-   **Normocytic normochromic anemia** — from hemolysis + bone marrow suppression (↓erythropoietin by TNF-α)
+-   **Metabolic acidosis** (base deficit \>8, lactate ≥5 mmol/L) — key severity marker
+-   **Hypoglycemia** (\<2.2 mmol/L adults; \<3 mmol/L children \<5 y) — check on admission and q1-2h
 
 ::: notes
 Thrombocytopenia is so common in malaria that its absence should make you reconsider the diagnosis. The combination of thrombocytopenia + fever + travel to endemic area has a positive predictive value \>80% for malaria. Lactate and base deficit are the best laboratory predictors of mortality in severe malaria — better than parasitemia. Highlight to students that a normal WBC count is typical in malaria; leukocytosis suggests concomitant bacterial infection.
@@ -773,9 +847,9 @@ Thrombocytopenia is so common in malaria that its absence should make you recons
 
 **PfHRP2 deletions** in *P. falciparum* cause **false-negative RDTs** based on HRP-2 detection alone.
 
-- Reported from: Eritrea, Ethiopia, Djibouti, Peru, Amazon region
-- Prevalence increasing; detected in travelers
-- Panel RDTs (HRP2 + pLDH) or microscopy are recommended in affected regions
+-   Reported from: Eritrea, Ethiopia, Djibouti, Peru, Amazon region
+-   Prevalence increasing; detected in travelers
+-   Panel RDTs (HRP2 + pLDH) or microscopy are recommended in affected regions
 
 **Clinical implication**: A negative RDT does NOT rule out severe P. falciparum malaria. Treat on clinical suspicion if the test is negative but malaria is likely.
 :::
@@ -820,27 +894,27 @@ This is a critical teaching slide. Malaria should always be at the top of the di
 
 ### Red Flags During Treatment
 
-- **Day 3 parasitemia \>3%** (baseline \>100,000/μL) → suspect **artemisinin resistance**
-- **Rising parasitemia** after initial decline → treatment failure
-- **New organ dysfunction** despite falling parasitemia → ARDS (can worsen paradoxically after treatment)
+-   **Day 3 parasitemia \>3%** (baseline \>100,000/μL) → suspect **artemisinin resistance**
+-   **Rising parasitemia** after initial decline → treatment failure
+-   **New organ dysfunction** despite falling parasitemia → ARDS (can worsen paradoxically after treatment)
 :::
 
 ::: {.column width="50%"}
 ### Additional Monitoring in Severe Malaria
 
-- **Blood glucose**: q1–2h for first 24 h (hypoglycemia common, recurrent)
-- **Hemoglobin**: daily (delayed hemolysis 7–14 days post-artesunate)
-- **Lactate/base deficit**: best mortality predictor
-- **Renal function**: creatinine, urine output
-- **Fluid balance**: restrict IV fluids (FEAST trial)
-- **Mental status**: serial GCS/Blantyre assessments
+-   **Blood glucose**: q1–2h for first 24 h (hypoglycemia common, recurrent)
+-   **Hemoglobin**: daily (delayed hemolysis 7–14 days post-artesunate)
+-   **Lactate/base deficit**: best mortality predictor
+-   **Renal function**: creatinine, urine output
+-   **Fluid balance**: restrict IV fluids (FEAST trial)
+-   **Mental status**: serial GCS/Blantyre assessments
 
 ### Post-Artesunate Delayed Hemolysis (PADH)
 
-- Occurs **7–31 days** after IV artesunate
-- Most common in non-immune travelers with **hyperparasitemia**
-- Mechanism: pitting of once-infected RBCs by spleen → delayed clearance
-- Monitor Hb weekly for 4 weeks after severe malaria treatment
+-   Occurs **7–31 days** after IV artesunate
+-   Most common in non-immune travelers with **hyperparasitemia**
+-   Mechanism: pitting of once-infected RBCs by spleen → delayed clearance
+-   Monitor Hb weekly for 4 weeks after severe malaria treatment
 :::
 :::::
 
@@ -899,15 +973,15 @@ Walk through this algorithm. The key decision points are: (1) Severe vs. uncompl
 ::: {.column width="40%"}
 ### Why ACTs?
 
-- Artemisinins: fastest-acting
-- Rapid parasite clearance
-- Short half-life → partner drug prevents resistance
-- Active against early gametocytes → reduces transmission
+-   Artemisinins: fastest-acting
+-   Rapid parasite clearance
+-   Short half-life → partner drug prevents resistance
+-   Active against early gametocytes → reduces transmission
 
 ### Resistant Areas
 
-- SE Asia, parts of East Africa: K13 mutations
-- ACT still first-line; add IV quinine for severe disease in these areas
+-   SE Asia, parts of East Africa: K13 mutations
+-   ACT still first-line; add IV quinine for severe disease in these areas
 :::
 :::::
 
@@ -967,19 +1041,19 @@ Key teaching points: (1) The 6-dose Coartem schedule is critical — the second 
 ::: {.column width="50%"}
 ### Primaquine
 
-- 0.5 mg base/kg/day × 14 days (standard)
-- OR 1 mg base/kg/day × 7 days (high dose; geographic regions)
-- Can be used in children ≥6 months
-- **Contraindications**: pregnancy, severe G6PD deficiency
+-   0.5 mg base/kg/day × 14 days (standard)
+-   OR 1 mg base/kg/day × 7 days (high dose; geographic regions)
+-   Can be used in children ≥6 months
+-   **Contraindications**: pregnancy, severe G6PD deficiency
 :::
 
 ::: {.column width="50%"}
 ### Tafenoquine (Krintafel)
 
-- **Single 300 mg dose** (CDC) for age ≥16 years
-- More convenient — but longer half-life (\~12 days) → greater hemolysis risk if G6PD-deficient
-- Requires quantitative G6PD testing
-- **Contraindications**: pregnancy, G6PD deficiency, history of psychosis
+-   **Single 300 mg dose** (CDC) for age ≥16 years
+-   More convenient — but longer half-life (\~12 days) → greater hemolysis risk if G6PD-deficient
+-   Requires quantitative G6PD testing
+-   **Contraindications**: pregnancy, G6PD deficiency, history of psychosis
 :::
 :::::
 
@@ -1023,11 +1097,11 @@ Once parasite density ≤1% and tolerating oral: - Artemether-lumefantrine (pref
 
 ### Adjunctive Measures
 
-- Seizures: benzodiazepines
-- Hypoglycemia: IV glucose
-- Restrict IV fluids (FEAST trial)
-- Empiric antibiotics if shock
-- **NO dexamethasone** (worsens outcomes)
+-   Seizures: benzodiazepines
+-   Hypoglycemia: IV glucose
+-   Restrict IV fluids (FEAST trial)
+-   Empiric antibiotics if shock
+-   **NO dexamethasone** (worsens outcomes)
 :::
 :::::
 
@@ -1043,32 +1117,32 @@ The artesunate story: IV quinidine was previously the US standard for severe mal
 ::: {.column width="50%"}
 ### Fluid Management
 
-- **Adults**: restrictive fluid strategy (pulmonary edema risk)
-- **Children**: **FEAST trial** showed fluid boluses **increased** mortality in African children with severe febrile illness → avoid rapid boluses
-- Target euvolemia; use vasopressors early if shock persists
-- Monitor urine output (target ≥0.5 mL/kg/h)
+-   **Adults**: restrictive fluid strategy (pulmonary edema risk)
+-   **Children**: **FEAST trial** showed fluid boluses **increased** mortality in African children with severe febrile illness → avoid rapid boluses
+-   Target euvolemia; use vasopressors early if shock persists
+-   Monitor urine output (target ≥0.5 mL/kg/h)
 
 ### Respiratory
 
-- ARDS can develop during or **after** treatment (as parasitemia clears)
-- Low threshold for intubation with lung-protective ventilation
-- Prone positioning if severe ARDS
+-   ARDS can develop during or **after** treatment (as parasitemia clears)
+-   Low threshold for intubation with lung-protective ventilation
+-   Prone positioning if severe ARDS
 :::
 
 ::: {.column width="50%"}
 ### Hematologic
 
-- **Exchange transfusion / RBC exchange**: consider for parasitemia \>10% with severe features
-  - Automated erythrocytapheresis preferred over manual exchange
-  - WHO no longer formally recommends (insufficient evidence), but widely practiced in US/Europe
-- **Post-artesunate delayed hemolysis (PADH)**: hemolytic anemia 1–3 weeks after IV artesunate, especially in non-immune patients with high initial parasitemia
-  - Monitor Hgb weekly for 4 weeks after treatment
+-   **Exchange transfusion / RBC exchange**: consider for parasitemia \>10% with severe features
+    -   Automated erythrocytapheresis preferred over manual exchange
+    -   WHO no longer formally recommends (insufficient evidence), but widely practiced in US/Europe
+-   **Post-artesunate delayed hemolysis (PADH)**: hemolytic anemia 1–3 weeks after IV artesunate, especially in non-immune patients with high initial parasitemia
+    -   Monitor Hgb weekly for 4 weeks after treatment
 
 ### Metabolic
 
-- Check glucose **every 1–2 hours** (quinine/quinidine stimulate insulin secretion)
-- Correct acidosis with hemodynamic support, not bicarbonate
-- Monitor lactate as prognostic marker
+-   Check glucose **every 1–2 hours** (quinine/quinidine stimulate insulin secretion)
+-   Correct acidosis with hemodynamic support, not bicarbonate
+-   Monitor lactate as prognostic marker
 :::
 :::::
 
@@ -1092,20 +1166,20 @@ The FEAST trial was a landmark study that changed fluid management in African ch
 
 ### Red Flags During Treatment
 
-- Parasitemia **not decreasing** at 24–48 h → consider artemisinin resistance
-- Parasitemia **rising** despite treatment → re-evaluate drug delivery, consider exchange transfusion
-- New severe criteria developing → escalate care
+-   Parasitemia **not decreasing** at 24–48 h → consider artemisinin resistance
+-   Parasitemia **rising** despite treatment → re-evaluate drug delivery, consider exchange transfusion
+-   New severe criteria developing → escalate care
 :::
 
 :::: {.column width="45%"}
 ### Monitoring in Uncomplicated Malaria
 
-- Day 0: Baseline parasitemia
-- Day 3: Smear should be negative or near-negative
-  - Persistent day 3 positivity: suspect partial artemisinin resistance
-- Day 7: Confirm cure (particularly in SE Asia)
-- Day 28 (or 42): Definitive assessment
-  - PCR-corrected to distinguish recrudescence from reinfection
+-   Day 0: Baseline parasitemia
+-   Day 3: Smear should be negative or near-negative
+    -   Persistent day 3 positivity: suspect partial artemisinin resistance
+-   Day 7: Confirm cure (particularly in SE Asia)
+-   Day 28 (or 42): Definitive assessment
+    -   PCR-corrected to distinguish recrudescence from reinfection
 
 ::: callout-tip
 ## Clinical Pearl
@@ -1146,9 +1220,9 @@ Pregnancy malaria is particularly dangerous due to placental sequestration of P.
 ::: {.column width="50%"}
 ### Definitions
 
-- **Recrudescence**: Same parasite strain reappears **\<28 days** after treatment (treatment failure)
-- **Reinfection**: New infection **\>28 days** after treatment (in endemic area)
-- **Relapse**: Hypnozoite activation (*P. vivax/ovale*), weeks to years after primary infection
+-   **Recrudescence**: Same parasite strain reappears **\<28 days** after treatment (treatment failure)
+-   **Reinfection**: New infection **\>28 days** after treatment (in endemic area)
+-   **Relapse**: Hypnozoite activation (*P. vivax/ovale*), weeks to years after primary infection
 
 ### Causes of Treatment Failure
 
@@ -1171,9 +1245,9 @@ Pregnancy malaria is particularly dangerous due to placental sequestration of P.
 
 ### Key Points
 
-- If failure occurs **despite prophylaxis** → use a **different** drug class for treatment
-- PCR genotyping (microsatellites) can distinguish recrudescence from reinfection
-- Always verify: did the patient complete the full course? Did they take AL with fatty food?
+-   If failure occurs **despite prophylaxis** → use a **different** drug class for treatment
+-   PCR genotyping (microsatellites) can distinguish recrudescence from reinfection
+-   Always verify: did the patient complete the full course? Did they take AL with fatty food?
 :::
 :::::
 
@@ -1189,17 +1263,17 @@ The most common "treatment failure" in clinical practice is actually non-adheren
 ::: {.column width="55%"}
 ### The Problem
 
-- Successful treatment clears **asexual parasites** (rings, trophozoites, schizonts)
-- **Gametocytes** may persist in blood for **weeks** after treatment
-- Gametocytes are not harmful to the patient but are **infectious to mosquitoes**
-- A single treated patient can continue transmission to the community
+-   Successful treatment clears **asexual parasites** (rings, trophozoites, schizonts)
+-   **Gametocytes** may persist in blood for **weeks** after treatment
+-   Gametocytes are not harmful to the patient but are **infectious to mosquitoes**
+-   A single treated patient can continue transmission to the community
 
 ### The Solution: Single Low-Dose Primaquine (SLDPQ)
 
-- **0.25 mg base/kg** as a single dose (previously 0.75 mg/kg)
-- Given alongside ACT for *P. falciparum* in **low-transmission** settings
-- Reduces gametocyte carriage by **\~two-thirds** at day 8
-- **NOT required** in most of sub-Saharan Africa (high transmission — individual effect minimal)
+-   **0.25 mg base/kg** as a single dose (previously 0.75 mg/kg)
+-   Given alongside ACT for *P. falciparum* in **low-transmission** settings
+-   Reduces gametocyte carriage by **\~two-thirds** at day 8
+-   **NOT required** in most of sub-Saharan Africa (high transmission — individual effect minimal)
 :::
 
 :::: {.column width="45%"}
@@ -1266,12 +1340,12 @@ This slide serves as a quick reference for side effects that come up in clinical
 :::: {.column width="50%"}
 ### Intermittent Preventive Treatment in Pregnancy (IPTp)
 
-- **Sulfadoxine-pyrimethamine (SP)** at each scheduled ANC visit starting 2nd trimester
-- ≥3 doses at ≥1 month intervals recommended by WHO
-- Reduces placental malaria, low birth weight, and neonatal mortality
-- **Must be given as DOT** (directly observed therapy) at ANC clinic
-- Do not give in 1st trimester or within 1 month of delivery
-- Also provide **LLIN** at first ANC visit
+-   **Sulfadoxine-pyrimethamine (SP)** at each scheduled ANC visit starting 2nd trimester
+-   ≥3 doses at ≥1 month intervals recommended by WHO
+-   Reduces placental malaria, low birth weight, and neonatal mortality
+-   **Must be given as DOT** (directly observed therapy) at ANC clinic
+-   Do not give in 1st trimester or within 1 month of delivery
+-   Also provide **LLIN** at first ANC visit
 
 ::: callout-important
 IPTp is one of the most cost-effective maternal health interventions in sub-Saharan Africa.
@@ -1281,23 +1355,23 @@ IPTp is one of the most cost-effective maternal health interventions in sub-Saha
 ::: {.column width="50%"}
 ### Seasonal Malaria Chemoprevention (SMC)
 
-- **Monthly SP + amodiaquine** for children 3–59 months during rainy/transmission season
+-   **Monthly SP + amodiaquine** for children 3–59 months during rainy/transmission season
 
-- 3–4 monthly cycles per season
+-   3–4 monthly cycles per season
 
-- WHO-recommended in Sahel sub-region of Africa
+-   WHO-recommended in Sahel sub-region of Africa
 
-- Efficacy: **\>75% reduction** in uncomplicated malaria episodes; **\>50% reduction in mortality**
+-   Efficacy: **\>75% reduction** in uncomplicated malaria episodes; **\>50% reduction in mortality**
 
-- 
+-   
 
-  > 45 million children treated in 2022
+    > 45 million children treated in 2022
 
 ### Perennial Malaria Chemoprevention (PMC)
 
-- SP given at routine immunization contacts (10 wk, 14 wk, 9 mo)
-- For areas with year-round transmission
-- Formerly called "IPTi" (intermittent preventive treatment in infants)
+-   SP given at routine immunization contacts (10 wk, 14 wk, 9 mo)
+-   For areas with year-round transmission
+-   Formerly called "IPTi" (intermittent preventive treatment in infants)
 :::
 ::::::
 
@@ -1313,26 +1387,26 @@ IPTp and SMC are two of the highest-impact malaria interventions in endemic sett
 ::: {.column width="50%"}
 ### Personal Protective Measures
 
-- **DEET-containing repellents** (≥20%) on exposed skin
-- **Permethrin** on clothing/gear
-- Long-sleeved shirts and long pants, especially **dusk to dawn** (peak Anopheles biting time)
-- **LLINs** (Long-Lasting Insecticidal Nets) in sleeping areas
-- Air conditioning and window screens
+-   **DEET-containing repellents** (≥20%) on exposed skin
+-   **Permethrin** on clothing/gear
+-   Long-sleeved shirts and long pants, especially **dusk to dawn** (peak Anopheles biting time)
+-   **LLINs** (Long-Lasting Insecticidal Nets) in sleeping areas
+-   Air conditioning and window screens
 :::
 
 ::: {.column width="50%"}
 ### Public Health/Vector Control
 
-- **Indoor Residual Spraying (IRS)** with insecticides
-- Environmental management (draining stagnant water)
-- Larval control
-- Population-level treatment programs (SMC, MDA)
+-   **Indoor Residual Spraying (IRS)** with insecticides
+-   Environmental management (draining stagnant water)
+-   Larval control
+-   Population-level treatment programs (SMC, MDA)
 
 ### Challenge: Insecticide Resistance
 
-- Pyrethroid resistance increasingly common in African *Anopheles*
-- New insecticide classes and bed net formulations in development
-- *Anopheles stephensi* urban expansion in East Africa
+-   Pyrethroid resistance increasingly common in African *Anopheles*
+-   New insecticide classes and bed net formulations in development
+-   *Anopheles stephensi* urban expansion in East Africa
 :::
 :::::
 
@@ -1356,27 +1430,27 @@ Anopheles mosquitoes bite predominantly between dusk and dawn — this is differ
 
 ### Choosing Chemoprophylaxis
 
-- **Most destinations**: atovaquone-proguanil, doxycycline, or mefloquine
-- **Short trips**: atovaquone-proguanil (start 1–2 d before, stop 7 d after)
-- **Budget-conscious/long trips**: doxycycline (cheapest; start 1–2 d before, continue 4 wk after)
-- **Mefloquine**: weekly dosing (start 2 wk before); neuropsychiatric side effects limit use
-- **Tafenoquine** (Arakoda): weekly during travel + 7 d after; requires G6PD testing
+-   **Most destinations**: atovaquone-proguanil, doxycycline, or mefloquine
+-   **Short trips**: atovaquone-proguanil (start 1–2 d before, stop 7 d after)
+-   **Budget-conscious/long trips**: doxycycline (cheapest; start 1–2 d before, continue 4 wk after)
+-   **Mefloquine**: weekly dosing (start 2 wk before); neuropsychiatric side effects limit use
+-   **Tafenoquine** (Arakoda): weekly during travel + 7 d after; requires G6PD testing
 :::
 
 ::: {.column width="50%"}
 ### Common Counseling Pitfalls
 
-- ❌ "I'll take pills if I get sick" → prophylaxis, not standby treatment
-- ❌ "I grew up there, I'm immune" → immunity wanes after leaving endemic area
-- ❌ "It's a city, no risk" → urban malaria exists (especially *An. stephensi* areas)
-- ❌ Stopping prophylaxis early after return → most require 4-week continuation (except atovaquone-proguanil: 7 days)
+-   ❌ "I'll take pills if I get sick" → prophylaxis, not standby treatment
+-   ❌ "I grew up there, I'm immune" → immunity wanes after leaving endemic area
+-   ❌ "It's a city, no risk" → urban malaria exists (especially *An. stephensi* areas)
+-   ❌ Stopping prophylaxis early after return → most require 4-week continuation (except atovaquone-proguanil: 7 days)
 
 ### Key Resources for Clinicians
 
-- **CDC Yellow Book**: destination-specific prophylaxis recommendations
-- **CDC Malaria Map Application**: interactive risk maps
-- **WHO International Travel and Health**: global guidelines
-- Counsel on **personal protective measures** alongside chemoprophylaxis — no drug is 100% effective
+-   **CDC Yellow Book**: destination-specific prophylaxis recommendations
+-   **CDC Malaria Map Application**: interactive risk maps
+-   **WHO International Travel and Health**: global guidelines
+-   Counsel on **personal protective measures** alongside chemoprophylaxis — no drug is 100% effective
 :::
 :::::
 
@@ -1392,25 +1466,25 @@ Pre-travel counseling is one of the most practical aspects of malaria medicine f
 ::: {.column width="55%"}
 ### Why It Matters
 
-- **G6PD deficiency** is the most common enzymopathy globally (\~400 million affected)
-- Highest prevalence in malaria-endemic regions (balanced polymorphism — confers partial protection)
-- **8-aminoquinolines** (primaquine, tafenoquine) cause **oxidative hemolysis** in G6PD-deficient individuals
-- Severity depends on variant: African A− (moderate), Mediterranean B− (severe), SE Asian variants (variable)
+-   **G6PD deficiency** is the most common enzymopathy globally (\~400 million affected)
+-   Highest prevalence in malaria-endemic regions (balanced polymorphism — confers partial protection)
+-   **8-aminoquinolines** (primaquine, tafenoquine) cause **oxidative hemolysis** in G6PD-deficient individuals
+-   Severity depends on variant: African A− (moderate), Mediterranean B− (severe), SE Asian variants (variable)
 
 ### Testing Requirements
 
-- **Primaquine**: G6PD testing required before use; if deficient → 0.75 mg/kg weekly × 8 wk (supervised)
-- **Tafenoquine**: requires **quantitative G6PD assay** (\>70% activity) — qualitative tests insufficient
-  - Long half-life (\~15 days) means hemolysis cannot be stopped by withdrawing drug
+-   **Primaquine**: G6PD testing required before use; if deficient → 0.75 mg/kg weekly × 8 wk (supervised)
+-   **Tafenoquine**: requires **quantitative G6PD assay** (\>70% activity) — qualitative tests insufficient
+    -   Long half-life (\~15 days) means hemolysis cannot be stopped by withdrawing drug
 :::
 
 :::: {.column width="45%"}
 ### Practical Points
 
-- **When to test**: before prescribing primaquine/tafenoquine for radical cure OR tafenoquine prophylaxis
-- **Qualitative tests** (fluorescent spot): adequate for primaquine screening
-- **Quantitative tests** (spectrophotometric): required for tafenoquine
-- **Point-of-care** biosensors: increasingly available in endemic settings
+-   **When to test**: before prescribing primaquine/tafenoquine for radical cure OR tafenoquine prophylaxis
+-   **Qualitative tests** (fluorescent spot): adequate for primaquine screening
+-   **Quantitative tests** (spectrophotometric): required for tafenoquine
+-   **Point-of-care** biosensors: increasingly available in endemic settings
 
 ::: callout-warning
 ## Timing Matters
@@ -1432,30 +1506,30 @@ G6PD testing is one of the biggest barriers to radical cure deployment globally.
 ::: {.column width="50%"}
 ### Malaria + HIV
 
-- **Bidirectional interaction**: HIV increases malaria susceptibility and severity; malaria increases HIV viral load
-- HIV-infected patients have higher parasitemia, more frequent treatment failure
-- **Drug interactions**: avoid artesunate + efavirenz (reduced artesunate levels); AL + lopinavir/ritonavir (QT prolongation risk)
-- Cotrimoxazole prophylaxis in HIV provides partial malaria protection
+-   **Bidirectional interaction**: HIV increases malaria susceptibility and severity; malaria increases HIV viral load
+-   HIV-infected patients have higher parasitemia, more frequent treatment failure
+-   **Drug interactions**: avoid artesunate + efavirenz (reduced artesunate levels); AL + lopinavir/ritonavir (QT prolongation risk)
+-   Cotrimoxazole prophylaxis in HIV provides partial malaria protection
 
 ### Malaria + Bacterial Sepsis
 
-- **Non-typhoidal *Salmonella*** bacteremia common with severe malaria (especially children in Africa)
-- Impaired splenic function during acute malaria → bacterial translocation
-- WHO recommends empiric antibiotics for children with severe malaria + signs of sepsis
+-   **Non-typhoidal *Salmonella*** bacteremia common with severe malaria (especially children in Africa)
+-   Impaired splenic function during acute malaria → bacterial translocation
+-   WHO recommends empiric antibiotics for children with severe malaria + signs of sepsis
 :::
 
 :::: {.column width="50%"}
 ### Malaria + Pregnancy (Infectious Co-Morbidities)
 
-- Malaria + HIV in pregnancy: synergistic risk of severe anemia, LBW, maternal mortality
-- IPTp-SP less effective in HIV+ women → cotrimoxazole prophylaxis recommended instead
+-   Malaria + HIV in pregnancy: synergistic risk of severe anemia, LBW, maternal mortality
+-   IPTp-SP less effective in HIV+ women → cotrimoxazole prophylaxis recommended instead
 
 ### Tropical Fever Overlap Syndromes
 
-- **Dengue + malaria**: co-endemic in SE Asia, South Asia — dual positivity occurs
-- Thrombocytopenia in both → hemorrhagic risk compounded
-- **Typhoid + malaria**: classic co-infection in sub-Saharan Africa; blood cultures essential
-- **Leptospirosis**: similar presentation; consider in travelers with freshwater exposure
+-   **Dengue + malaria**: co-endemic in SE Asia, South Asia — dual positivity occurs
+-   Thrombocytopenia in both → hemorrhagic risk compounded
+-   **Typhoid + malaria**: classic co-infection in sub-Saharan Africa; blood cultures essential
+-   **Leptospirosis**: similar presentation; consider in travelers with freshwater exposure
 
 ::: callout-important
 ## Clinical Pearl
@@ -1477,29 +1551,29 @@ Co-infections are a major clinical challenge in tropical medicine. The malaria-H
 ::: {.column width="50%"}
 ### RTS,S/AS01 (Mosquirix)
 
-- **WHO recommended 2021** for children in endemic areas
-- Based on *P. falciparum* circumsporozoite protein (CSP) fused to hepatitis B surface antigen + AS01 adjuvant
-- **Phase 3 trial** (11 African sites, \>15,000 children):
-  - Efficacy 5–17 mo age group: **39% against clinical malaria** over 4 years (4 doses)
-  - Efficacy against severe malaria: **29%** (with booster)
-  - Protection wanes substantially after year 1 (\~50% → \~25% by year 4)
-- **4-dose schedule**: 3 doses at monthly intervals (age 5–9 mo), booster at 15–18 months
-- Does NOT provide sterilizing immunity — reduces episodes, not infection
-- **\>6 million doses** deployed by end of 2024 across Ghana, Kenya, Malawi, Cameroon, and others [@RTS2015Efficacy]
+-   **WHO recommended 2021** for children in endemic areas
+-   Based on *P. falciparum* circumsporozoite protein (CSP) fused to hepatitis B surface antigen + AS01 adjuvant
+-   **Phase 3 trial** (11 African sites, \>15,000 children):
+    -   Efficacy 5–17 mo age group: **39% against clinical malaria** over 4 years (4 doses)
+    -   Efficacy against severe malaria: **29%** (with booster)
+    -   Protection wanes substantially after year 1 (\~50% → \~25% by year 4)
+-   **4-dose schedule**: 3 doses at monthly intervals (age 5–9 mo), booster at 15–18 months
+-   Does NOT provide sterilizing immunity — reduces episodes, not infection
+-   **\>6 million doses** deployed by end of 2024 across Ghana, Kenya, Malawi, Cameroon, and others [@RTS2015Efficacy]
 :::
 
 ::: {.column width="50%"}
 ### R21/Matrix-M
 
-- **WHO recommended and prequalified October 2023**
-- Also targets CSP, but with **higher CSP:HBsAg ratio** + Matrix-M (saponin) adjuvant
-- Phase 3 results (4,800 children, 4 African countries):
-  - **Seasonal administration**: efficacy **75%** at 12 months (Burkina Faso seasonal trial)
-  - **Year-round settings**: efficacy **68%** at 12 months
-  - Booster at 12 months sustained protection at \~70% through 2 years
-- **4-dose schedule**: 3 monthly doses + booster at 12 months
-- Advantages: **lower cost** (\~\$2–4/dose vs \$9–10 for RTS,S), **easier manufacturing** (higher yield), **thermostable at 40°C** for extended periods
-- Serum Institute of India plans **100+ million doses/year** [@R21Datoo2023]
+-   **WHO recommended and prequalified October 2023**
+-   Also targets CSP, but with **higher CSP:HBsAg ratio** + Matrix-M (saponin) adjuvant
+-   Phase 3 results (4,800 children, 4 African countries):
+    -   **Seasonal administration**: efficacy **75%** at 12 months (Burkina Faso seasonal trial)
+    -   **Year-round settings**: efficacy **68%** at 12 months
+    -   Booster at 12 months sustained protection at \~70% through 2 years
+-   **4-dose schedule**: 3 monthly doses + booster at 12 months
+-   Advantages: **lower cost** (\~\$2–4/dose vs \$9–10 for RTS,S), **easier manufacturing** (higher yield), **thermostable at 40°C** for extended periods
+-   Serum Institute of India plans **100+ million doses/year** [@R21Datoo2023]
 :::
 :::::
 
@@ -1523,17 +1597,17 @@ Co-infections are a major clinical challenge in tropical medicine. The malaria-H
 ::: {.column width="50%"}
 ### Monoclonal Antibodies (mAbs)
 
-- **CIS43LS** and **L9LS** (anti-CSP mAbs)
-- Single IV or subcutaneous injection provides **season-long protection** (\~6 months)
-- Phase 2 trial in Malian children and adults: **88% protective efficacy** over 6-month malaria season
-- Potential role: **seasonal chemoprevention alternative**, travelers, pregnant women (no G6PD concern)
-- Limitations: cost, IV/SC route, limited duration
+-   **CIS43LS** and **L9LS** (anti-CSP mAbs)
+-   Single IV or subcutaneous injection provides **season-long protection** (\~6 months)
+-   Phase 2 trial in Malian children and adults: **88% protective efficacy** over 6-month malaria season
+-   Potential role: **seasonal chemoprevention alternative**, travelers, pregnant women (no G6PD concern)
+-   Limitations: cost, IV/SC route, limited duration
 
 ### Challenges Ahead
 
-- No vaccine for *P. vivax* yet
-- Combining vaccines with existing tools (LLINs, SMC) essential
-- Equitable global access and funding for scale-up
+-   No vaccine for *P. vivax* yet
+-   Combining vaccines with existing tools (LLINs, SMC) essential
+-   Equitable global access and funding for scale-up
 :::
 :::::
 
@@ -1549,30 +1623,30 @@ These are the first vaccines ever approved against a human parasite. While the e
 ::: {.column width="55%"}
 ### Background
 
-- Partial artemisinin resistance = **delayed parasite clearance**
-- Defined as: persistent parasitemia by microscopy at 72 h, OR half-life ≥5 h
-- **K13 mutations** (especially **C580Y**) confer ring-stage survival
+-   Partial artemisinin resistance = **delayed parasite clearance**
+-   Defined as: persistent parasitemia by microscopy at 72 h, OR half-life ≥5 h
+-   **K13 mutations** (especially **C580Y**) confer ring-stage survival
 
 ### Geographic Spread
 
-- Originally confined to Greater Mekong Subregion (Thailand, Cambodia, Myanmar, Laos, Vietnam)
-- Now documented in **Rwanda, Uganda, Ethiopia, Eritrea**
-- ACT partner drug resistance (piperaquine, mefloquine) compounds the problem in SE Asia
+-   Originally confined to Greater Mekong Subregion (Thailand, Cambodia, Myanmar, Laos, Vietnam)
+-   Now documented in **Rwanda, Uganda, Ethiopia, Eritrea**
+-   ACT partner drug resistance (piperaquine, mefloquine) compounds the problem in SE Asia
 :::
 
 ::: {.column width="45%"}
 ### Clinical Implications
 
-- ACTs remain first-line in most settings
-- In resistant areas: add **IV quinine** to IV artesunate for severe malaria
-- Longer follow-up needed (day 28 vs. day 14)
-- Choose ACT partner drug based on local resistance patterns
+-   ACTs remain first-line in most settings
+-   In resistant areas: add **IV quinine** to IV artesunate for severe malaria
+-   Longer follow-up needed (day 28 vs. day 14)
+-   Choose ACT partner drug based on local resistance patterns
 
 ### Watch For
 
-- Fever still present at day 3 of treatment
-- Positive smear at 72 hours
-- Higher treatment failure rates (\>5% after PCR correction)
+-   Fever still present at day 3 of treatment
+-   Positive smear at 72 hours
+-   Higher treatment failure rates (\>5% after PCR correction)
 :::
 :::::
 
@@ -1588,31 +1662,31 @@ The geographic spread of artemisinin resistance to East Africa is alarming. If r
 ::: {.column width="50%"}
 ### The Rise and Fall of Chloroquine
 
-- **1957–2000s**: CQ resistance spread globally from SE Asia and South America
-- Mediated by mutations in **pfcrt** (K76T) and **pfmdr1**
-- By 2000: CQ abandoned as first-line therapy across most of Africa
-- Result: **millions of preventable deaths** during transition to alternative drugs (SP, then ACTs)
+-   **1957–2000s**: CQ resistance spread globally from SE Asia and South America
+-   Mediated by mutations in **pfcrt** (K76T) and **pfmdr1**
+-   By 2000: CQ abandoned as first-line therapy across most of Africa
+-   Result: **millions of preventable deaths** during transition to alternative drugs (SP, then ACTs)
 
 ### The Recovery Phenomenon
 
-- After CQ withdrawal → **wild-type pfcrt K76 returns** (fitness cost of resistance)
-- **Malawi** (first to switch, 1993): CQ efficacy recovered to \>95% by 2005
-- Similar trends in parts of Tanzania, Zambia, and other countries
+-   After CQ withdrawal → **wild-type pfcrt K76 returns** (fitness cost of resistance)
+-   **Malawi** (first to switch, 1993): CQ efficacy recovered to \>95% by 2005
+-   Similar trends in parts of Tanzania, Zambia, and other countries
 :::
 
 ::: {.column width="50%"}
 ### Clinical Implications
 
-- CQ is **NOT recommended** for *P. falciparum* treatment (WHO)
-- However, the recovery shows drug resistance can be **reversible**
-- Raises possibility of cycling drug regimens in future
-- CQ retains full activity against most *P. vivax* (except Indonesia, Papua New Guinea, parts of SE Asia)
+-   CQ is **NOT recommended** for *P. falciparum* treatment (WHO)
+-   However, the recovery shows drug resistance can be **reversible**
+-   Raises possibility of cycling drug regimens in future
+-   CQ retains full activity against most *P. vivax* (except Indonesia, Papua New Guinea, parts of SE Asia)
 
 ### Lesson for Artemisinin Resistance
 
-- Drug pressure drives resistance; removal can restore susceptibility
-- Argues for **stewardship**: protect ACTs by eliminating monotherapy, ensuring treatment completion
-- **Triple ACTs** (TACT) under investigation to extend ACT lifespan
+-   Drug pressure drives resistance; removal can restore susceptibility
+-   Argues for **stewardship**: protect ACTs by eliminating monotherapy, ensuring treatment completion
+-   **Triple ACTs** (TACT) under investigation to extend ACT lifespan
 :::
 :::::
 
@@ -1650,29 +1724,29 @@ The choice of ACT varies by region based on resistance patterns. In the US, arte
 ::: {.column width="50%"}
 ### Current Tools
 
-- **LLINs** (long-lasting insecticidal nets): pyrethroid-based, backbone of prevention
-- **IRS** (indoor residual spraying): effective but operationally demanding
-- **Larval source management**: targeted in urban settings
+-   **LLINs** (long-lasting insecticidal nets): pyrethroid-based, backbone of prevention
+-   **IRS** (indoor residual spraying): effective but operationally demanding
+-   **Larval source management**: targeted in urban settings
 
 ### The Resistance Crisis
 
-- **Pyrethroid resistance**: now widespread in *An. gambiae* across Africa
-- Metabolic resistance (P450 enzyme upregulation) + target-site mutations (*kdr*)
-- IRS rotation to organophosphates, neonicotinoids, clothianidin
+-   **Pyrethroid resistance**: now widespread in *An. gambiae* across Africa
+-   Metabolic resistance (P450 enzyme upregulation) + target-site mutations (*kdr*)
+-   IRS rotation to organophosphates, neonicotinoids, clothianidin
 :::
 
 ::: {.column width="50%"}
 ### Next-Generation Approaches
 
-- **PBO synergist nets**: restore pyrethroid efficacy (Interceptor G2, Royal Guard)
-- **Dual-AI nets**: pyrethroid + chlorfenapyr (Interceptor G2) — 46% reduction vs. standard LLIN
-- **Attractive toxic sugar baits (ATSB)**: target outdoor-biting mosquitoes
-- **Gene drive**: *An. gambiae* population suppression (laboratory stage)
-- ***Wolbachia*****-based strategies**: reduce mosquito competence for *Plasmodium*
+-   **PBO synergist nets**: restore pyrethroid efficacy (Interceptor G2, Royal Guard)
+-   **Dual-AI nets**: pyrethroid + chlorfenapyr (Interceptor G2) — 46% reduction vs. standard LLIN
+-   **Attractive toxic sugar baits (ATSB)**: target outdoor-biting mosquitoes
+-   **Gene drive**: *An. gambiae* population suppression (laboratory stage)
+-   ***Wolbachia*****-based strategies**: reduce mosquito competence for *Plasmodium*
 
 ### Emerging Threat
 
-- ***Anopheles stephensi***: urban-adapted mosquito spreading across Horn of Africa (Djibouti, Ethiopia, Sudan, Somalia) — threatens to bring malaria into African cities
+-   ***Anopheles stephensi***: urban-adapted mosquito spreading across Horn of Africa (Djibouti, Ethiopia, Sudan, Somalia) — threatens to bring malaria into African cities
 :::
 :::::
 
@@ -1688,36 +1762,36 @@ Vector control has historically been the most impactful intervention against mal
 ::: {.column width="50%"}
 ### *P. vivax*
 
-- **Hypnozoites** → relapses weeks to years later
-- Radical cure requires **primaquine** (14 days) or **tafenoquine** (single dose)
-- Both require **G6PD testing** (risk of hemolytic anemia)
-- CQ remains first-line for blood stage (except CQ-resistant areas → ACT)
-- **Tafenoquine** (Krintafel): FDA-approved 2018 — single 300 mg dose
-  - Advantage: adherence; Risk: longer half-life = prolonged hemolysis if G6PD-deficient
+-   **Hypnozoites** → relapses weeks to years later
+-   Radical cure requires **primaquine** (14 days) or **tafenoquine** (single dose)
+-   Both require **G6PD testing** (risk of hemolytic anemia)
+-   CQ remains first-line for blood stage (except CQ-resistant areas → ACT)
+-   **Tafenoquine** (Krintafel): FDA-approved 2018 — single 300 mg dose
+    -   Advantage: adherence; Risk: longer half-life = prolonged hemolysis if G6PD-deficient
 
 ### *P. ovale*
 
-- Also forms hypnozoites → radical cure with primaquine
-- Generally milder disease
-- Two subspecies: *P. o. curtisi* and *P. o. wallikeri*
+-   Also forms hypnozoites → radical cure with primaquine
+-   Generally milder disease
+-   Two subspecies: *P. o. curtisi* and *P. o. wallikeri*
 :::
 
 ::: {.column width="50%"}
 ### *P. malariae*
 
-- **No hypnozoites** but can cause **chronic parasitemia** (decades)
-- Associated with nephrotic syndrome (immune complex glomerulonephritis)
-- CQ-sensitive; standard CQ treatment adequate
-- Can recrudesce years after initial infection
+-   **No hypnozoites** but can cause **chronic parasitemia** (decades)
+-   Associated with nephrotic syndrome (immune complex glomerulonephritis)
+-   CQ-sensitive; standard CQ treatment adequate
+-   Can recrudesce years after initial infection
 
 ### *P. knowlesi*
 
-- Zoonotic (macaque reservoir in SE Asia)
-- **24-hour erythrocytic cycle** → rapid parasitemia rise
-- Can cause severe disease mimicking *P. falciparum*
-- Morphologically confused with *P. malariae* on smear
-- PCR often needed for definitive diagnosis
-- Treat with ACT (or CQ if uncomplicated and confirmed)
+-   Zoonotic (macaque reservoir in SE Asia)
+-   **24-hour erythrocytic cycle** → rapid parasitemia rise
+-   Can cause severe disease mimicking *P. falciparum*
+-   Morphologically confused with *P. malariae* on smear
+-   PCR often needed for definitive diagnosis
+-   Treat with ACT (or CQ if uncomplicated and confirmed)
 :::
 :::::
 
@@ -1733,28 +1807,28 @@ Non-falciparum species cause significant morbidity and present unique management
 ::: {.column width="50%"}
 ### Progress Toward Elimination
 
-- **40 countries** certified malaria-free by WHO (as of 2024)
-- Recent certifications: China (2021), El Salvador (2021), Azerbaijan (2023), Belize (2023), Cabo Verde (2024)
-- **E-2025 initiative**: 25 countries targeted for elimination by 2025
-- Sri Lanka, Paraguay, Uzbekistan: sustained zero indigenous cases
+-   **40 countries** certified malaria-free by WHO (as of 2024)
+-   Recent certifications: China (2021), El Salvador (2021), Azerbaijan (2023), Belize (2023), Cabo Verde (2024)
+-   **E-2025 initiative**: 25 countries targeted for elimination by 2025
+-   Sri Lanka, Paraguay, Uzbekistan: sustained zero indigenous cases
 
 ### Key Strategies
 
-- Surveillance-response systems (detect every case)
-- Mass drug administration (MDA) in specific settings
-- Reactive case detection and treatment
-- Cross-border collaboration
+-   Surveillance-response systems (detect every case)
+-   Mass drug administration (MDA) in specific settings
+-   Reactive case detection and treatment
+-   Cross-border collaboration
 :::
 
 :::: {.column width="50%"}
 ### Barriers to Global Eradication
 
-- *P. vivax* hypnozoites → silent reservoirs
-- Asymptomatic *P. falciparum* carriers sustain transmission
-- Insecticide and drug resistance
-- Health system weaknesses in highest-burden countries
-- Climate change expanding transmission zones
-- Funding gap: \~\$3.5 billion invested vs. \$7.3 billion needed annually (WHO)
+-   *P. vivax* hypnozoites → silent reservoirs
+-   Asymptomatic *P. falciparum* carriers sustain transmission
+-   Insecticide and drug resistance
+-   Health system weaknesses in highest-burden countries
+-   Climate change expanding transmission zones
+-   Funding gap: \~\$3.5 billion invested vs. \$7.3 billion needed annually (WHO)
 
 ::: callout-warning
 ## Stalled Progress
@@ -1788,9 +1862,9 @@ The malaria elimination landscape is a story of contrasts. On one hand, more cou
 
 ### Do Not Miss
 
-- Patient was "compliant with prophylaxis" — no prophylaxis is 100% effective
-- Patient visited friends and relatives — often do not seek pre-travel advice, less likely to use chemoprophylaxis
-- Patient returned months ago — *P. vivax*, *P. ovale* relapse, *P. malariae* recrudescence
+-   Patient was "compliant with prophylaxis" — no prophylaxis is 100% effective
+-   Patient visited friends and relatives — often do not seek pre-travel advice, less likely to use chemoprophylaxis
+-   Patient returned months ago — *P. vivax*, *P. ovale* relapse, *P. malariae* recrudescence
 
 ::: notes
 The VFR (visiting friends and relatives) traveler group accounts for a large proportion of imported malaria cases. They often feel falsely immune, don't take prophylaxis, and delay seeking care. Ask specifically about adherence to chemoprophylaxis — many patients stop early, take doses irregularly, or misunderstand the post-travel continuation period.
@@ -1824,10 +1898,10 @@ The VFR (visiting friends and relatives) traveler group accounts for a large pro
 :::: {.column width="50%"}
 ### Lessons from History
 
-- Drug resistance **will emerge** with monotherapy → always use combinations
-- Vector control successes can be reversed by insecticide resistance
-- Political will and funding → 60% mortality reduction 2000–2015
-- The battle is not won: resistance in East Africa, local transmission in US 2023, stalled progress since 2015
+-   Drug resistance **will emerge** with monotherapy → always use combinations
+-   Vector control successes can be reversed by insecticide resistance
+-   Political will and funding → 60% mortality reduction 2000–2015
+-   The battle is not won: resistance in East Africa, local transmission in US 2023, stalled progress since 2015
 
 ::: callout-tip
 ## Nobel Laureate Connection
@@ -1849,26 +1923,26 @@ Good opportunity to discuss the global health lesson: when funding and political
 ::: {.column width="50%"}
 ### Contact Information
 
-- **Daytime** (Mon–Fri, 9 AM–5 PM ET): **770-488-7788**
-- **After hours / weekends**: **770-488-7100** (request Malaria Branch on-call)
-- **Online**: CDC DPDx telediagnosis — submit smear images for expert review
+-   **Daytime** (Mon–Fri, 9 AM–5 PM ET): **770-488-7788**
+-   **After hours / weekends**: **770-488-7100** (request Malaria Branch on-call)
+-   **Online**: CDC DPDx telediagnosis — submit smear images for expert review
 
 ### Always Call For
 
-- **Severe malaria** (any WHO criteria)
-- **Diagnostic uncertainty** — species unclear or mixed infection
-- **Treatment failure** — persistent parasitemia after appropriate therapy
-- **IV artesunate logistics** if not immediately available in your pharmacy
+-   **Severe malaria** (any WHO criteria)
+-   **Diagnostic uncertainty** — species unclear or mixed infection
+-   **Treatment failure** — persistent parasitemia after appropriate therapy
+-   **IV artesunate logistics** if not immediately available in your pharmacy
 :::
 
 :::: {.column width="50%"}
 ### Consider Calling For
 
-- Malaria in pregnancy
-- G6PD-deficient patient needing radical cure
-- Possible drug resistance (recent SE Asia travel)
-- Non-immune patient with any *P. falciparum*
-- *P. knowlesi* (rare in US but can be rapidly fatal)
+-   Malaria in pregnancy
+-   G6PD-deficient patient needing radical cure
+-   Possible drug resistance (recent SE Asia travel)
+-   Non-immune patient with any *P. falciparum*
+-   *P. knowlesi* (rare in US but can be rapidly fatal)
 
 ::: callout-tip
 ## DPDx Telediagnosis
@@ -1888,13 +1962,13 @@ The CDC Malaria Hotline is one of the most underutilized resources in US infecti
 
 ::: incremental
 1.  **A 4-year-old child from Nigeria presents with fever, seizures, and parasitemia of 15%. What is the FIRST drug to administer?**
-    - IV artesunate 3 mg/kg (higher dose for children \<20 kg per WHO)
+    -   IV artesunate 3 mg/kg (higher dose for children \<20 kg per WHO)
 2.  **A Peace Corps volunteer returns from PNG with *P. vivax* malaria. Before starting primaquine, what test is mandatory?**
-    - G6PD testing (quantitative preferred if considering tafenoquine)
+    -   G6PD testing (quantitative preferred if considering tafenoquine)
 3.  **Name 3 WHO criteria for severe malaria.**
-    - Any 3 of: impaired consciousness, prostration, multiple seizures, acidosis, hypoglycemia, severe anemia, renal impairment, jaundice, pulmonary edema, significant bleeding, shock, hyperparasitemia (\>10%)
+    -   Any 3 of: impaired consciousness, prostration, multiple seizures, acidosis, hypoglycemia, severe anemia, renal impairment, jaundice, pulmonary edema, significant bleeding, shock, hyperparasitemia (\>10%)
 4.  **A negative RDT in a febrile traveler from Eritrea — can you safely rule out malaria?**
-    - NO: PfHRP2 gene deletions are prevalent in Eritrea → false-negative HRP2-based RDTs. Must confirm with microscopy or PCR.
+    -   NO: PfHRP2 gene deletions are prevalent in Eritrea → false-negative HRP2-based RDTs. Must confirm with microscopy or PCR.
 :::
 
 ::: notes
@@ -1927,17 +2001,17 @@ Walk through this case step by step. Answers: Species = P. falciparum (multiple 
 
 ::: incremental
 1.  **What malaria species is most likely and why?**
-    - *P. falciparum*: multiple ring forms per RBC, banana-shaped gametocytes, Africa exposure, high parasitemia (8%)
+    -   *P. falciparum*: multiple ring forms per RBC, banana-shaped gametocytes, Africa exposure, high parasitemia (8%)
 2.  **Does she meet WHO severe malaria criteria?**
-    - Yes: renal impairment (creatinine \>2× baseline), jaundice, pulmonary compromise (SpO₂ 94%), shock (BP 95/60), parasitemia approaching hyperparasitemia threshold
+    -   Yes: renal impairment (creatinine \>2× baseline), jaundice, pulmonary compromise (SpO₂ 94%), shock (BP 95/60), parasitemia approaching hyperparasitemia threshold
 3.  **What is the immediate treatment?**
-    - **IV artesunate** (contact CDC Malaria Hotline if not immediately available: 770-488-7788)
-    - ICU admission; seizure precautions; IV fluid management (restrictive)
-    - Empiric broad-spectrum antibiotics (fever + shock = possible bacterial co-infection)
-    - Bedside glucose monitoring (quinine-induced hypoglycemia risk)
+    -   **IV artesunate** (contact CDC Malaria Hotline if not immediately available: 770-488-7788)
+    -   ICU admission; seizure precautions; IV fluid management (restrictive)
+    -   Empiric broad-spectrum antibiotics (fever + shock = possible bacterial co-infection)
+    -   Bedside glucose monitoring (quinine-induced hypoglycemia risk)
 4.  **What follow-on treatment is needed?**
-    - Once parasitemia ≤1% and tolerating oral: artemether-lumefantrine (complete course)
-    - No hypnozoite treatment needed for *P. falciparum*
+    -   Once parasitemia ≤1% and tolerating oral: artemether-lumefantrine (complete course)
+    -   No hypnozoite treatment needed for *P. falciparum*
 :::
 
 ------------------------------------------------------------------------
@@ -1948,32 +2022,32 @@ Walk through this case step by step. Answers: Species = P. falciparum (multiple 
 ::: {.column width="50%"}
 ### Biology
 
-- Six species; *P. falciparum* most dangerous
-- *P. vivax* and *P. ovale*: hypnozoites → relapses
-- *P. knowlesi*: 24 h cycle, rapid progression
-- *P. falciparum* pathogenesis: cytoadherence + PfEMP-1 → microvascular obstruction
+-   Six species; *P. falciparum* most dangerous
+-   *P. vivax* and *P. ovale*: hypnozoites → relapses
+-   *P. knowlesi*: 24 h cycle, rapid progression
+-   *P. falciparum* pathogenesis: cytoadherence + PfEMP-1 → microvascular obstruction
 
 ### Diagnosis
 
-- Thick + thin smear: gold standard
-- RDTs: rapid, but watch for HRP2 deletions
-- PCR: most sensitive, for speciation/reference use
-- Species matters: different treatment implications
+-   Thick + thin smear: gold standard
+-   RDTs: rapid, but watch for HRP2 deletions
+-   PCR: most sensitive, for speciation/reference use
+-   Species matters: different treatment implications
 :::
 
 ::: {.column width="50%"}
 ### Treatment
 
-- **Uncomplicated *P. falciparum***: ACT (artemether-lumefantrine in US)
-- **Severe malaria**: IV artesunate (call CDC Hotline if needed)
-- ***P. vivax/ovale***: blood stage + primaquine or tafenoquine (after G6PD testing)
-- **Pregnancy**: artemether-lumefantrine preferred; avoid primaquine/tafenoquine
+-   **Uncomplicated *P. falciparum***: ACT (artemether-lumefantrine in US)
+-   **Severe malaria**: IV artesunate (call CDC Hotline if needed)
+-   ***P. vivax/ovale***: blood stage + primaquine or tafenoquine (after G6PD testing)
+-   **Pregnancy**: artemether-lumefantrine preferred; avoid primaquine/tafenoquine
 
 ### Prevention
 
-- Chemoprophylaxis + LLINs + repellents
-- Vaccines (RTS,S, R21) for endemic-area children
-- **No prophylaxis is 100% effective**
+-   Chemoprophylaxis + LLINs + repellents
+-   Vaccines (RTS,S, R21) for endemic-area children
+-   **No prophylaxis is 100% effective**
 :::
 :::::
 
@@ -1991,19 +2065,19 @@ Walk through this case step by step. Answers: Species = P. falciparum (multiple 
 ::: {.column width="50%"}
 ### Key Guidelines
 
-- WHO Guidelines for Malaria, October 2023 ([link](https://www.who.int/publications/i/item/guidelines-for-malaria))
-- CDC Treatment Guidelines, revised 2023 ([link](https://www.cdc.gov/malaria/hcp/clinical-guidance/general-treatment.html))
-- CDC Yellow Book 2024 ([link](https://wwwnc.cdc.gov/travel/yellowbook/2024/infections-diseases/malaria))
+-   WHO Guidelines for Malaria, October 2023 ([link](https://www.who.int/publications/i/item/guidelines-for-malaria))
+-   CDC Treatment Guidelines, revised 2023 ([link](https://www.cdc.gov/malaria/hcp/clinical-guidance/general-treatment.html))
+-   CDC Yellow Book 2024 ([link](https://wwwnc.cdc.gov/travel/yellowbook/2024/infections-diseases/malaria))
 
 ### Emergency Contact
 
-- **CDC Malaria Hotline**: 770-488-7788 (Mon–Fri 9 am–5 pm ET)
-- **After hours**: 770-488-7100
+-   **CDC Malaria Hotline**: 770-488-7788 (Mon–Fri 9 am–5 pm ET)
+-   **After hours**: 770-488-7100
 
 ### Surveillance
 
-- Malaria Atlas Project: [malariaatlas.org](https://malariaatlas.org/)
-- CDC DPDx: [cdc.gov/dpdx/malaria](https://www.cdc.gov/dpdx/malaria/index.html)
+-   Malaria Atlas Project: [malariaatlas.org](https://malariaatlas.org/)
+-   CDC DPDx: [cdc.gov/dpdx/malaria](https://www.cdc.gov/dpdx/malaria/index.html)
 :::
 
 ::: {.column width="50%"}
@@ -2013,10 +2087,10 @@ Parikh S, Taylor T. Chapter 280: Malaria (*Plasmodium* Species). In: Bennett JE,
 
 ### Selected References
 
-- WHO World Malaria Report 2024
-- Weiss DJ et al. *Lancet*. 2025 (Malaria Atlas Project data)
-- Dondorp AM et al. *NEJM* 2009 (Artemisinin resistance)
-- Llanos-Cuentas A et al. *NEJM* 2019 (Tafenoquine — DETECTIVE)
-- Maitland K et al. *NEJM* 2011 (FEAST trial)
+-   WHO World Malaria Report 2024
+-   Weiss DJ et al. *Lancet*. 2025 (Malaria Atlas Project data)
+-   Dondorp AM et al. *NEJM* 2009 (Artemisinin resistance)
+-   Llanos-Cuentas A et al. *NEJM* 2019 (Tafenoquine — DETECTIVE)
+-   Maitland K et al. *NEJM* 2011 (FEAST trial)
 :::
 :::::
