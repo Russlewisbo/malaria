@@ -2,10 +2,10 @@
 title: "Malaria: *Plasmodium* Species"
 subtitle: "Chapter 280 — Infectious Diseases & Epidemiology"
 author: "Based on Parikh S & Taylor T, in Mandell's PPID 9th ed."
-date: 2025
+date: "2026-03-29"
 format:
   revealjs:
-    theme: [default, custom.scss]
+    theme: [custom.scss]
     slide-number: true
     show-slide-number: all
     hash: true
@@ -19,7 +19,6 @@ format:
     width: 1280
     height: 720
     margin: 0.08
-    footer: "Malaria — Parikh & Taylor | PPID 9th ed."
 bibliography: references.bib
 ---
 
