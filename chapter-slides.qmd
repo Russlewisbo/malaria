@@ -229,7 +229,7 @@ The narrative arc here is crucial: enormous progress was made 2000–2015, but w
 :::
 :::::
 
-## Other Transmission Routes
+## Other transmission routes
 
 <br>
 
@@ -242,7 +242,7 @@ The narrative arc here is crucial: enormous progress was made 2000–2015, but w
 The visiting friends and relatives (VFR) traveler group is the most important for European clinical practice. They account for 75% of imported cases but are the hardest to reach with pre-travel counseling. Many feel falsely immune because they grew up in an endemic area, but immunity wanes rapidly after emigrating. Ask specifically about adherence — many start prophylaxis but stop early or take doses irregularly.
 :::
 
-## Who gets Malaria? Key risk groups {.incremental}
+## Who gets Malaria? <br>Key risk groups 
 
 ### In Endemic Areas:
 
@@ -483,14 +483,14 @@ Metabolic acidosis is the single best predictor of death — better than parasit
 ### Prevention in endemic areas
 
 ::: callout-important
-## WHO-becommended bundle
+## WHO-recommended bundle
 
 1.  **IPTp-SP** at every ANC visit from 2nd trimester
 2.  **LLIN** provided at first ANC visit
 3.  Prompt **diagnosis and treatment** of symptomatic malaria
 :::
 
-### Treatment Considerations
+### Treatment considerations
 
 -   **Hospitalize all pregnant women** with confirmed malaria
 -   2nd/3rd trimester: ACTs (artemether-lumefantrine preferred)
@@ -514,7 +514,6 @@ Pregnancy-associated malaria is a major cause of maternal and neonatal morbidity
 ::: {.column width="50%"}
 ### Hypnozoite Biology
 
-<br>
 
 -   Dormant liver forms activate months to **years** after exposure
 -   Relapses usually within **3 years**; rare after 5 years
@@ -523,7 +522,6 @@ Pregnancy-associated malaria is a major cause of maternal and neonatal morbidity
 
 ### Pathophysiology
 
-<br>
 
 -   Selectively invades **reticulocytes** → parasitemia usually **\<1%**
 -   Recent evidence: asexual stages cytoadhere to lung endothelium → pulmonary pathology
@@ -531,6 +529,8 @@ Pregnancy-associated malaria is a major cause of maternal and neonatal morbidity
 :::
 
 ::: {.column width="50%"}
+
+<br> <br>
 ![](images_malaria/hyponozoites.png)
 :::
 :::::
@@ -549,7 +549,7 @@ Critical receptor for *P. vivax* invasion
 
 <br>
 
-## P. ovale
+## *P. ovale*
 
 -   Two sibling species (curtisi, wallikeri)
     -   Cannot be distinguished clinically, only by molecular methods <br>
@@ -560,15 +560,14 @@ Clinical pearl: A patient who returned from West Africa 2 years ago with fever �
 
 ## *P. malariae* and *P. knowlesi*: Key points {.center}
 
-<br> <br>
+<br>
 
 ::::: columns
 ::: {.column width="50%"}
 ### *P. malariae*
 
-**"The Long Persistent Parasite"**
+**"The long persistent parasite"**
 
-<br>
 
 -   Quartan (72-hour) cycle
 -   Prefers **older erythrocytes**
@@ -581,9 +580,9 @@ Clinical pearl: A patient who returned from West Africa 2 years ago with fever �
 ::: {.column width="50%"}
 ### *P. knowlesi*
 
-**"The Zoonotic Danger"**
+**"The zoonotic danger"**
 
-<br>
+
 
 -   **Zoonosis** from long- and pig-tailed macaques
 -   Found only in SE Asia (Malaysia, Indonesia, Andaman Islands)
@@ -594,6 +593,7 @@ Clinical pearl: A patient who returned from West Africa 2 years ago with fever �
 :::
 :::::
 
+<br> <br> <br>
 ::: aside
 *P. malariae* causing decades-long infection is clinically important: A patient who emigrated from a malaria-endemic region 20 years ago can still have P. malariae. P. knowlesi is a diagnostic trap — it looks like *P. malariae* on microscopy but has a 24-hour cycle. If you see P. malariae morphology in a patient from SE Asia, you must confirm with PCR. The 24-hour cycle means the patient can look fine in the morning and be in multi-organ failure by evening.
 :::
@@ -663,8 +663,8 @@ Clinical pearl: A patient who returned from West Africa 2 years ago with fever �
 All non-immune travelers from a malaria-endemic area within the past 3 months who present with fever should be considered to have malaria until proven otherwise — **regardless of prophylaxis taken.**
 :::
 
--   Time to severe malaria: can be **hours P. falciparum**
--   All non-immune patients with confirmed malaria should be **hospitalized**
+-   Time to severe malaria: can be hours for *P. falciparum*
+-   All non-immune patients with confirmed malaria should be hospitalized
 
 <br> <br> <br>
 
@@ -684,13 +684,14 @@ All non-immune travelers from a malaria-endemic area within the past 3 months wh
 -   Mild splenomegaly with repeated infections
 <br>
 
-### The Classic Paroxysm (rare at presentation)
+### The classic paroxysm (rare at presentation)
 
 1.  **Cold stage**: chills/rigors (30 min–2 h)
 2.  **Hot stage**: high fever, headache, vomiting (2–6 h)
 3.  **Sweating stage**: profuse sweating, fatigue (2–4 h)
 
 <br>
+
 ### What Is Typically ABSENT
 
 -   Cough, rhinorrhea, upper respiratory symptoms
@@ -698,11 +699,13 @@ All non-immune travelers from a malaria-endemic area within the past 3 months wh
 -   Rash
 -   Lymphadenopathy
 
+<br> <br>
+
 ::: aside
 The classic paroxysm occurs only when infection is synchronous, which takes several days to develop. Most patients at presentation have continuous or irregular fever. The absence of respiratory symptoms is a helpful distinguishing feature from viral URTI, but many patients will initially be diagnosed as viral illness.
 :::
 
-------------------------------------------------------------------------
+
 
 ## WHO Severe Malaria Criteria (Part 1) {.center}
 
