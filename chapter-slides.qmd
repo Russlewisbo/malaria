@@ -31,7 +31,7 @@ bibliography: references-malaria.bib
 **Russell E. Lewis** <br> Associate Professor of Infectious Diseases <br> Department of Molecular Medicine <br> University of Padua
 
 |  |  |
-|------------------------------------|------------------------------------|
+|----|----|
 | ![](images_malaria//dmmunipd_logo.jpeg){width="100"} | ![](images_malaria/unipd_seal_white.svg){width="100"} |
 
 <br> {{< fa solid envelope size=1x >}} russelledward.lewis\@unipd.it <br> {{< fa brands github size=1x >}} [https://github.com/Russlewisbo](https://github.com/Russlewisbo/ESCMID_2022_talk) <br> Slides and course materials: [www.padovaid.com](https://padovaid.com/)
@@ -242,7 +242,7 @@ The narrative arc here is crucial: enormous progress was made 2000–2015, but w
 The visiting friends and relatives (VFR) traveler group is the most important for European clinical practice. They account for 75% of imported cases but are the hardest to reach with pre-travel counseling. Many feel falsely immune because they grew up in an endemic area, but immunity wanes rapidly after emigrating. Ask specifically about adherence — many start prophylaxis but stop early or take doses irregularly.
 :::
 
-## Who gets Malaria? <br>Key risk groups 
+## Who gets Malaria? <br>Key risk groups
 
 ### In Endemic Areas:
 
@@ -268,7 +268,7 @@ The visiting friends and relatives (VFR) traveler group is the most important fo
 
 <br> <br>
 
-::::: columns
+:::: columns
 ::: {.column width="50%"}
 ### Unique Pathogenic Features
 
@@ -286,17 +286,19 @@ The visiting friends and relatives (VFR) traveler group is the most important fo
 
 -   **High parasitemia:** - Invades all RBC ages → can exceed 10%
 :::
-
-::: {.column width="50%"}
-![](images_malaria/erythrocyteeffect.jpeg){fig-align="center" width="800"}
-:::
-:::::
+::::
 
 <br> <br> <br>
 
 ::: aside
 The key concept here is that peripheral parasitemia underestimates total body parasite burden because of sequestration. This is why a patient with "only" 5% parasitemia can still be critically ill — there may be much more parasite sequestered in the brain, kidneys, etc. PfHRP2 in plasma better estimates total biomass.
 :::
+
+## Parasite morphology
+
+![](images_malaria/fig280-3_anopheles.png){fig-align="center"}
+
+*(A) P. knowlesi merozoite invading RBC. (B) P. falciparum trophozoite with hemozoin. (C-D) Knobs and membrane deformation by P. falciparum. (E) Cytoadherence. (F) Rosetting.*
 
 ## Red blood cell rosetting
 
@@ -352,7 +354,7 @@ These are remarkable images from Malawi studies. The histology shows parasitized
 <br> <br>
 
 | Population | Immunity | Risk |
-|------------------------|------------------------|------------------------|
+|----|----|----|
 | Children \<5 y in endemic areas | Minimal | Highest morbidity/mortality |
 | Older children/adults in endemic areas | Partial (premunition) | Asymptomatic parasitemia |
 | Emigrants from endemic areas (years later) | Waned | At risk again |
@@ -374,7 +376,7 @@ Malaria = **strongest known evolutionary selection force** on the human genome
 **Protective traits (Heterozygote advantage)**
 
 | Trait | Protection | Mechanism |
-|------------------------|------------------------|------------------------|
+|----|----|----|
 | **Sickle cell trait** (HbAS) | \~90% vs. severe Pf | HbS polymerization → reduced sequestration; enhanced innate immunity |
 | **α-thalassemia** | \~60% vs. severe Pf | Oxidative stress in parasitized RBCs |
 | **G6PD deficiency** | \~50% vs. Pf | Increased oxidative damage to parasite |
@@ -413,7 +415,6 @@ Malaria has shaped more human genetic diversity than any other infectious diseas
 -   Mortality **15–20%** even with optimal treatment
 -   10–15% of survivors: persistent neurological sequelae <br>
 
-
 ### Severe malarial anemia
 
 -   Hemolysis + phagocytic removal + bone marrow suppression
@@ -431,15 +432,11 @@ Malaria has shaped more human genetic diversity than any other infectious diseas
     -   Check glucose **q1–2h** for first 24 hours
 -   **AKI**: ATN pattern; hemoglobinuria ("blackwater fever"); often requires dialysis
 
-
-
 ### Pulmonary
 
 -   **Non-cardiogenic pulmonary edema / ARDS**: Sequestration in pulmonary capillaries → endothelial damage
 -   Can develop **after** parasite clearance
 -   Restrict IV fluids (FEAST trial lesson)
-
-
 
 ### Other
 
@@ -499,7 +496,7 @@ Metabolic acidosis is the single best predictor of death — better than parasit
 ::::
 ::::::
 
-<br> <br> <br> 
+<br> <br> <br>
 
 ::: aside
 Pregnancy-associated malaria is a major cause of maternal and neonatal morbidity in sub-Saharan Africa. In 2022, 36% of pregnancies in 33 moderate-high transmission African countries were exposed to malaria. The VAR2CSA explains why first pregnancies are most affected and why protection develops with parity. IPTp-SP is one of the most cost-effective interventions in global health.ANC-Antenatal care visit; IPTp-SP- Intermittent Preventive Treatment in Pregnancy with Sulfadoxine-Pyrimethamine;LLIN- Long lasting insecticidal net, ACT- Artemisinin-based Combination Therapy; AL- Artemether-Lumefantrin
@@ -513,7 +510,6 @@ Pregnancy-associated malaria is a major cause of maternal and neonatal morbidity
 ::: {.column width="50%"}
 ### Hypnozoite Biology
 
-
 -   Dormant liver forms activate months to **years** after exposure
 -   Relapses usually within **3 years**; rare after 5 years
 -   Not detectable by blood-stage tests
@@ -521,16 +517,13 @@ Pregnancy-associated malaria is a major cause of maternal and neonatal morbidity
 
 ### Pathophysiology
 
-
 -   Selectively invades **reticulocytes** → parasitemia usually **\<1%**
 -   Recent evidence: asexual stages cytoadhere to lung endothelium → pulmonary pathology
 -   Total parasite biomass \>\> peripheral parasitemia (bone marrow, spleen)
 :::
 
 ::: {.column width="50%"}
-
-<br> <br>
-![](images_malaria/hyponozoites.png)
+<br> <br> ![](images_malaria/hyponozoites.png)
 :::
 :::::
 
@@ -567,7 +560,6 @@ Clinical pearl: A patient who returned from West Africa 2 years ago with fever �
 
 **"The long persistent parasite"**
 
-
 -   Quartan (72-hour) cycle
 -   Prefers **older erythrocytes**
 -   Parasitemia typically very low <br> (often below microscopy threshold)
@@ -581,8 +573,6 @@ Clinical pearl: A patient who returned from West Africa 2 years ago with fever �
 
 **"The zoonotic danger"**
 
-
-
 -   **Zoonosis** from long- and pig-tailed macaques
 -   Found only in SE Asia (Malaysia, Indonesia, Andaman Islands)
 -   **24-hour replication cycle** → rapid parasitemia rise
@@ -592,7 +582,7 @@ Clinical pearl: A patient who returned from West Africa 2 years ago with fever �
 :::
 :::::
 
-<br> <br> 
+<br> <br> <br>
 
 ::: aside
 *P. malariae* causing decades-long infection is clinically important: A patient who emigrated from a malaria-endemic region 20 years ago can still have P. malariae. P. knowlesi is a diagnostic trap — it looks like *P. malariae* on microscopy but has a 24-hour cycle. If you see P. malariae morphology in a patient from SE Asia, you must confirm with PCR. The 24-hour cycle means the patient can look fine in the morning and be in multi-organ failure by evening.
@@ -672,8 +662,8 @@ All non-immune travelers from a malaria-endemic area within the past 3 months wh
 *P. falciparum* uncomplicated malaria can become cerebral malaria within hours. This is why we hospitalize all non-immune patients — you simply cannot safely observe them outpatient. The 3-month rule is critical but not absolute — *P. vivax* relapses can occur years later.
 :::
 
+## Uncomplicated malaria: Clinical features
 
-## Uncomplicated malaria: Clinical features 
 <br>
 
 ### Symptoms
@@ -683,14 +673,11 @@ All non-immune travelers from a malaria-endemic area within the past 3 months wh
 -   Nausea, vomiting, abdominal pain
 -   Mild splenomegaly with repeated infections
 
-
 ### The classic paroxysm (rare at presentation)
 
 1.  **Cold stage**: chills/rigors (30 min–2 h)
 2.  **Hot stage**: high fever, headache, vomiting (2–6 h)
 3.  **Sweating stage**: profuse sweating, fatigue (2–4 h)
-
-
 
 ### What Is Typically ABSENT
 
@@ -705,18 +692,17 @@ All non-immune travelers from a malaria-endemic area within the past 3 months wh
 The classic paroxysm occurs only when infection is synchronous, which takes several days to develop. Most patients at presentation have continuous or irregular fever. The absence of respiratory symptoms is a helpful distinguishing feature from viral URTI, but many patients will initially be diagnosed as viral illness.
 :::
 
-
-
 ## WHO Severe Malaria Criteria (Part 1) {.center}
+
 <br> <br>
 
 **One or more of the following, with parasitemia, excluding alternative causes:**
 
 | Manifestation | Threshold |
-|------------------------------------|------------------------------------|
+|----|----|
 | **Impaired consciousness** | GCS \<11 adults; Blantyre \<3 children |
 | **Prostration** | Unable to sit/stand/walk without assistance |
-| *Multiple convulsions** | \>2 fits in 24 hours |
+| \*Multiple convulsions\*\* | \>2 fits in 24 hours |
 | **Metabolic acidosis** | Base deficit \>8 mEq/L, or bicarb \<15, or lactate ≥5 mmol/L |
 | **Hypoglycemia** | Glucose \<2.2 mmol/L (\<40 mg/dL) |
 | **Severe malarial anemia** | Hgb ≤5 g/dL (children) / \<7 g/dL (adults) + parasitemia |
@@ -728,10 +714,11 @@ The classic paroxysm occurs only when infection is synchronous, which takes seve
 ------------------------------------------------------------------------
 
 ## WHO Severe Malaria Criteria (Part 2) {.center}
+
 <br> <br>
 
 | Manifestation | Threshold |
-|------------------------------------|------------------------------------|
+|----|----|
 | **Renal impairment** | Creatinine \>265 μmol/L (3 mg/dL) or urea \>20 mmol/L |
 | **Jaundice** | Bilirubin \>50 μmol/L with high parasite count |
 | **Pulmonary edema** | Radiographic confirmation, or SpO₂ \<92% with RR \>30 |
@@ -744,42 +731,41 @@ The classic paroxysm occurs only when infection is synchronous, which takes seve
 :::
 
 <br> <br> <br>
+
 ::: aside
-WHO criteria are highly sensitive but not very specific — many patients will meet criteria based on fever + any of these signs. The criteria are valuable for guiding treatment intensity and monitoring. Non-immune individuals may have severe malaria even at very low parasitemias. Malarial retinopathy improves specificity for cerebral malaria diagnosis specifically.
+WHO criteria are highly sensitive but not very specific , many patients will meet criteria based on fever + any of these signs. The criteria are valuable for guiding treatment intensity and monitoring. Non-immune individuals may have severe malaria even at very low parasitemias. Malarial retinopathy improves specificity for cerebral malaria diagnosis specifically.
 :::
-
-
 
 ## Parasite Morphology: Species Differentiation {.center}
 
-![](images/fig280-3.png){fig-alt="Electron and light microscopy of Plasmodium parasites" height="430px"}
+![](images_malaria/thin_smears.png){fig-align="center"}
 
-*(A) P. knowlesi merozoite invading RBC. (B) P. falciparum trophozoite with hemozoin. (C-D) Knobs and membrane deformation by P. falciparum. (E) Cytoadherence. (F) Rosetting.*
-
-------------------------------------------------------------------------
-
-## Key Microscopy Features for Speciation {.center}
+## Key microscopy features for speciation {.center}
 
 | Feature | *P. falciparum* | *P. vivax* | *P. ovale* | *P. malariae* | *P. knowlesi* |
-|------------|------------|------------|------------|------------|------------|
-| RBC size | Normal | **Enlarged** | Enlarged | Normal | Normal |
+|----|----|----|----|----|----|
+| RBC size | Normal | Enlarged | Enlarged | Normal | Normal |
 | Schüffner's dots | ❌ | ✅ | ✅ | ❌ | ❌ |
-| Max parasitemia | **\>10%** | \<2% | \<1% | \<1% | Variable |
-| Gametocyte shape | **Banana** | Round | Round | Round | Round |
+| Max parasitemia | \>10%\* | \<2% | \<1% | \<1% | Variable |
+| Gametocyte shape | Banana | Round | Round | Round | Round |
 | Distinctive feature | Multiple rings, no mature stages in periphery | Ameboid trophozoites | Fimbriated RBCs | Band trophozoites | Resembles *P. malariae* |
-| Cycle | 48 h | 48 h | 48 h | **72 h** | **24 h** |
+| Cycle | 48 h | 48 h | 48 h | \*2 h | 24 h |
+
+<br> <br>
 
 ::: callout-warning
 *P. knowlesi* resembles *P. malariae* on light microscopy — **molecular testing (PCR) is required** for definitive speciation of *P. malariae*-like morphology in travelers from SE Asia.
 :::
 
-::: notes
-The banana-shaped (crescent) gametocytes are pathognomonic for P. falciparum — no other human malaria species has this shape. Multiple ring forms per RBC also suggests P. falciparum. The absence of mature trophozoites/schizonts in peripheral blood of P. falciparum (due to sequestration) is another distinguishing feature.
+<br> <br>
+
+::: aside
+The banana-shaped (crescent) gametocytes are pathognomonic for *P. falciparum* — no other human malaria species has this shape. Multiple ring forms per RBC also suggests *P. falciparum*. The absence of mature trophozoites/schizonts in peripheral blood of *P. falciparum* (due to sequestration) is another distinguishing feature.
 :::
 
-------------------------------------------------------------------------
+## Diagnostic tests: Overview {.center}
 
-## Diagnostic Tests: Overview {.center}
+<br> <br>
 
 :::::: columns
 ::: {.column width="33%"}
@@ -787,7 +773,12 @@ The banana-shaped (crescent) gametocytes are pathognomonic for P. falciparum —
 
 **Gold Standard**
 
-✅ Species ID + quantification ✅ Available worldwide ✅ Stage identification ❌ Requires expertise ❌ Labor-intensive ❌ At least 200 fields for negative
+-   Species ID + quantification ✅
+-   Available worldwide ✅
+-   Stage identification ✅\
+-   Requires expertise ❌
+-   Labor-intensive ❌
+-   At least 200 fields for negative ❌
 
 *Sensitivity: \~50–500 parasites/μL*
 :::
@@ -797,7 +788,12 @@ The banana-shaped (crescent) gametocytes are pathognomonic for P. falciparum —
 
 **Frontline Tool**
 
-✅ Rapid result (15 min) ✅ No microscopy expertise needed ✅ P. falciparum: sensitivity 94.8% ❌ No quantification ❌ False negatives: **HRP2 deletions** ❌ Cannot monitor treatment
+-   Rapid result (15 min) ✅
+-   Microscopy expertise needed ✅
+-   P. falciparum: sensitivity 94.8% ✅
+-   No quantification ❌
+-   False negatives: **HRP2 deletions** ❌
+-   Cannot monitor treatment❌
 
 *Do NOT use to monitor response*
 :::
@@ -807,22 +803,27 @@ The banana-shaped (crescent) gametocytes are pathognomonic for P. falciparum —
 
 **Reference Standard**
 
-✅ Highest sensitivity ✅ Species + quantification ✅ Drug resistance testing ❌ Available only in reference labs ❌ Slow turnaround (not for acute Dx) ❌ Expensive
+-   Highest sensitivity ✅
+-   Species + quantification ✅
+-   Drug resistance testing ✅
+-   Available only in reference labs ❌
+-   Slow turnaround (not for acute Dx) ❌
+-   Expensive ❌
 
 *Best for: speciation confirmation, low-density infections, mixed infections*
 :::
 ::::::
 
-::: notes
+<br> <br> <br>
+
+::: aside
 In practice: A patient presenting with fever after travel to Africa gets a thin+thick smear AND an RDT simultaneously. PCR is reserved for equivocal cases, speciation confirmation, drug resistance testing. Remind students of the growing HRP2 deletion problem — in parts of Africa and Peru, P. falciparum has deleted the hrp2 gene, making HRP2-based RDTs false-negative. This is a major surveillance challenge.
 :::
 
-------------------------------------------------------------------------
-
-## TABLE 280.2 — Comparison of Malaria Diagnostics {.smaller .center}
+## Comparison of malaria diagnostics {.smaller .center}
 
 | Feature | Expert Microscopy | Conventional RDT (HRP2/pLDH) | Ultrasensitive RDT | PCR / LAMP | qRT-PCR |
-|------------|------------|------------|------------|------------|------------|
+|----|----|----|----|----|----|
 | **Detection limit** | 50–500 parasites/μL (thick); 200–500 (thin) | 100–200 parasites/μL (HRP2); 200–500 (pLDH) | 1–10 parasites/μL | 0.5–5 parasites/μL | 0.02–1 parasite/μL |
 | **Turnaround time** | 30–60 min (trained reader) | 15–20 min | 15–20 min | 1–3 hours (PCR); 30–60 min (LAMP) | 2–4 hours |
 | **Species ID** | Yes (thin smear) | *Pf* only (HRP2); *Pf* + pan (combo) | *Pf* only or *Pf* + pan | Yes (all species) | Yes (all species) |
@@ -832,7 +833,9 @@ In practice: A patient presenting with fever after travel to Africa gets a thin+
 | **Post-treatment monitoring** | Yes | **No** — HRP2 persists 28+ days | **No** | Yes | Yes |
 | **Key limitation** | Expertise-dependent; false negatives in early *Pf* (sequestration) | HRP2 deletions → false neg; no quantification | Limited availability | Not point-of-care; cost | Not point-of-care; cost |
 
-### Ancillary Laboratory Findings in Malaria
+<br>
+
+### Ancillary laboratory findings in malaria
 
 -   **Thrombocytopenia** (\<150 × 10⁹/L) — present in **60–80%** of cases; strongly suggestive (sensitivity 60%, specificity 88% for malaria vs. other febrile illness)
 -   **Elevated LDH and indirect bilirubin** — markers of hemolysis
@@ -840,13 +843,13 @@ In practice: A patient presenting with fever after travel to Africa gets a thin+
 -   **Metabolic acidosis** (base deficit \>8, lactate ≥5 mmol/L) — key severity marker
 -   **Hypoglycemia** (\<2.2 mmol/L adults; \<3 mmol/L children \<5 y) — check on admission and q1-2h
 
-::: notes
+<br> <br>
+
+::: aside
 Thrombocytopenia is so common in malaria that its absence should make you reconsider the diagnosis. The combination of thrombocytopenia + fever + travel to endemic area has a positive predictive value \>80% for malaria. Lactate and base deficit are the best laboratory predictors of mortality in severe malaria — better than parasitemia. Highlight to students that a normal WBC count is typical in malaria; leukocytosis suggests concomitant bacterial infection.
 :::
 
-------------------------------------------------------------------------
-
-## The HRP2 Deletion Problem {.center}
+## The HRP2 deletion problem {.center}
 
 ::: callout-warning
 ## A Critical Diagnostic Pitfall
@@ -860,14 +863,12 @@ Thrombocytopenia is so common in malaria that its absence should make you recons
 **Clinical implication**: A negative RDT does NOT rule out severe P. falciparum malaria. Treat on clinical suspicion if the test is negative but malaria is likely.
 :::
 
-------------------------------------------------------------------------
-
-## Differential Diagnosis of Malaria {.smaller .center}
+## Differential diagnosis of malaria {.center}
 
 **Malaria mimics many diseases — and many diseases mimic malaria**
 
 | Category | Diagnoses to Consider | Distinguishing Clues |
-|------------------------|------------------------|------------------------|
+|----|----|----|
 | **Viral** | Influenza, dengue, chikungunya, Zika, yellow fever, COVID-19, VHF, viral meningitis | Dengue: more severe myalgia/arthralgia, rash, shorter incubation (4–7 d); Yellow fever: biphasic, relative bradycardia; COVID: anosmia, respiratory Sx |
 | **Bacterial** | Enteric fever (typhoid), nontyphoidal bacteremia, leptospirosis, rickettsiosis, bacterial meningitis | Typhoid: rose spots, relative bradycardia, diarrhea/constipation; Lepto: conjunctival suffusion, biphasic illness; Rickettsia: eschar, rash |
 | **Parasitic** | Acute schistosomiasis (Katayama), African trypanosomiasis, visceral leishmaniasis | Schisto: freshwater exposure, eosinophilia, urticaria; Tryps: chancre, posterior cervical LN; VL: massive splenomegaly, pancytopenia |
@@ -876,80 +877,66 @@ Thrombocytopenia is so common in malaria that its absence should make you recons
 **Key Principle**: In any febrile returned traveler, consider **co-infections** — malaria + typhoid, malaria + bacteremia, or malaria + dengue are common combinations, especially in sub-Saharan Africa.
 :::
 
-::: notes
-This is a critical teaching slide. Malaria should always be at the top of the differential for fever + travel to endemic area. But remind students that identifying malaria does NOT rule out other diagnoses — bacterial co-infection is present in 5–8% of severe malaria cases, and empiric antibiotics should be started in any patient with shock. Dengue and malaria co-infection is increasingly recognized in SE Asia and South America.
+<br> <br> <br>
+
+::: aside
+Malaria should always be at the top of the differential for fever + travel to endemic area. However, malaria does NOT rule out other diagnoses — bacterial co-infection is present in 5–8% of severe malaria cases, and empiric antibiotics should be started in any patient with shock. Dengue and malaria co-infection is increasingly recognized in SE Asia and South America.
 :::
 
 ------------------------------------------------------------------------
 
-## Monitoring Treatment Response {.center}
+## Treatment decision framework {.center}
 
-::::: columns
-::: {.column width="50%"}
-### Parasitemia Monitoring
-
-| Time Point           | Expected Response                         |
-|----------------------|-------------------------------------------|
-| **Baseline**         | Quantify parasitemia (parasites/μL)       |
-| **12 hours**         | Smear — trend should be downward          |
-| **24 hours**         | ≥50% reduction expected with ACTs         |
-| **48 hours**         | ≥75% reduction from baseline              |
-| **72 hours (Day 3)** | **Should be negative** with effective ACT |
-| **Day 7**            | Confirm clearance                         |
-| **Day 28**           | Check for recrudescence vs. reinfection   |
-
-### Red Flags During Treatment
-
--   **Day 3 parasitemia \>3%** (baseline \>100,000/μL) → suspect **artemisinin resistance**
--   **Rising parasitemia** after initial decline → treatment failure
--   **New organ dysfunction** despite falling parasitemia → ARDS (can worsen paradoxically after treatment)
-:::
-
-::: {.column width="50%"}
-### Additional Monitoring in Severe Malaria
-
--   **Blood glucose**: q1–2h for first 24 h (hypoglycemia common, recurrent)
--   **Hemoglobin**: daily (delayed hemolysis 7–14 days post-artesunate)
--   **Lactate/base deficit**: best mortality predictor
--   **Renal function**: creatinine, urine output
--   **Fluid balance**: restrict IV fluids (FEAST trial)
--   **Mental status**: serial GCS/Blantyre assessments
-
-### Post-Artesunate Delayed Hemolysis (PADH)
-
--   Occurs **7–31 days** after IV artesunate
--   Most common in non-immune travelers with **hyperparasitemia**
--   Mechanism: pitting of once-infected RBCs by spleen → delayed clearance
--   Monitor Hb weekly for 4 weeks after severe malaria treatment
-:::
-:::::
-
-::: notes
-Post-artesunate delayed hemolysis (PADH) is increasingly recognized and can cause clinically significant anemia requiring transfusion. It happens because artesunate rapidly kills ring-stage parasites but leaves the damaged RBC membrane intact — the spleen then removes these "pitted" RBCs over the following weeks. Risk factors: high initial parasitemia (\>10%), non-immune status, prolonged IV artesunate course. Warn patients before discharge.
-:::
-
-------------------------------------------------------------------------
-
-## Treatment Decision Framework {.center}
-
-```         
-Malaria confirmed or strongly suspected
-         ↓
-Is the patient SEVERE? (WHO criteria, or unable to take oral medications)
-    ↙                 ↘
-   YES                 NO
-    ↓                   ↓
-IV artesunate     What species + Where acquired?
-(emergency)            ↙              ↘
-                P. falciparum     Non-falciparum
-                (or unknown)      (P. vivax, P. ovale,
-                      ↓           P. malariae, P. knowlesi)
-             Chloroquine-          ↓
-             resistant area?   Chloroquine (if sensitive)
-             → ACT (1st line)  OR ACT
-             Chloroquine-      + Primaquine/tafenoquine
-             sensitive area?   for P. vivax/P. ovale
-             → Chloroquine
+```{=html}
+<figure style="font-family: sans-serif; font-size: 0.85em; max-width: 700px; margin: auto;">
+<style>
+  .flow-box { border: 2px solid #2c7bb6; border-radius: 6px; padding: 8px 14px; background: #eaf4fb; text-align: center; display: inline-block; }
+  .flow-box.decision { background: #fff3cd; border-color: #e6a817; }
+  .flow-box.action   { background: #d4edda; border-color: #28a745; }
+  .flow-box.urgent   { background: #f8d7da; border-color: #dc3545; }
+  .flow-box.start    { background: #d0e8ff; border-color: #1a5c99; font-weight: bold; }
+  .arrow  { text-align: center; color: #555; font-size: 1.2em; line-height: 1; margin: 2px 0; }
+  .flow-col { display: flex; flex-direction: column; align-items: center; gap: 4px; flex: 1; }
+  .flabel { font-size: 0.85em; font-weight: bold; color: #555; }
+</style>
+<div style="display:flex; flex-direction:column; align-items:center; gap:4px;">
+  <div class="flow-box start">Malaria confirmed or strongly suspected</div>
+  <div class="arrow">&#8595;</div>
+  <div class="flow-box decision">Is the patient <strong>SEVERE</strong>?<br><small>(WHO criteria, or unable to take oral medications)</small></div>
+  <div class="arrow">&#8595;</div>
+  <div style="display:flex; width:90%; justify-content:space-around; align-items:flex-start; margin-top:4px;">
+    <div class="flow-col">
+      <span class="flabel" style="color:#dc3545;">YES</span>
+      <div class="arrow">&#8595;</div>
+      <div class="flow-box urgent"><strong>IV artesunate</strong><br><small>(emergency)</small></div>
+    </div>
+    <div class="flow-col">
+      <span class="flabel" style="color:#28a745;">NO</span>
+      <div class="arrow">&#8595;</div>
+      <div class="flow-box decision">What <strong>species</strong> + <strong>where acquired</strong>?</div>
+      <div class="arrow">&#8595;</div>
+      <div style="display:flex; width:100%; justify-content:space-around; align-items:flex-start; margin-top:2px;">
+        <div class="flow-col">
+          <span class="flabel" style="color:#c0392b; font-size:0.82em;"><em>P. falciparum</em><br>(or unknown)</span>
+          <div class="arrow">&#8595;</div>
+          <div class="flow-box decision">Chloroquine-resistant area?</div>
+          <div class="arrow">&#8595;</div>
+          <div class="flow-box action"><strong>ACT</strong> (1st line)</div>
+          <div style="margin-top:6px;" class="flow-box decision">Chloroquine-sensitive area?</div>
+          <div class="arrow">&#8595;</div>
+          <div class="flow-box action"><strong>Chloroquine</strong></div>
+        </div>
+        <div class="flow-col">
+          <span class="flabel" style="color:#1a5c99; font-size:0.82em;">Non-falciparum<br><small>(<em>P. vivax, P. ovale,<br>P. malariae, P. knowlesi</em>)</small></span>
+          <div class="arrow">&#8595;</div>
+          <div class="flow-box action"><strong>Chloroquine</strong> (if sensitive)<br><strong>OR ACT</strong><br><small>+ Primaquine / tafenoquine<br>for <em>P. vivax / P. ovale</em></small></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<figcaption style="text-align:center; margin-top:12px; color:#555; font-size:0.82em;">Figure: Simplified malaria treatment algorithm. ACT&#160;= artemisinin-based combination therapy.</figcaption>
+</figure>
 ```
 
 ::: notes
@@ -958,7 +945,9 @@ Walk through this algorithm. The key decision points are: (1) Severe vs. uncompl
 
 ------------------------------------------------------------------------
 
-## First-Line Treatment: Uncomplicated *P. falciparum* {.center}
+## First-line treatment: Uncomplicated *P. falciparum* {.center}
+
+<br>
 
 ### Artemisinin-Based Combination Therapies (ACTs)
 
@@ -972,8 +961,6 @@ Walk through this algorithm. The key decision points are: (1) Severe vs. uncompl
 | Artesunate-mefloquine                 | 3 days × 1 daily                |
 | Artesunate-SP                         | 3 days AS + single SP           |
 | Artesunate-pyronaridine               | 3 days × 1 daily                |
-
-**In the US: Only artemether-lumefantrine (Coartem) is FDA-approved**
 :::
 
 ::: {.column width="40%"}
@@ -991,7 +978,7 @@ Walk through this algorithm. The key decision points are: (1) Severe vs. uncompl
 :::
 :::::
 
-::: notes
+::: aside
 Coartem is given with food or milk because lumefantrine has very poor bioavailability without fat. Stress that the second dose (8 hours after first) is often forgotten. In SE Asia (Cambodia, Myanmar, Thailand, Laos, Vietnam), partial artemisinin resistance (K13 mutations) means parasites survive for longer and treatment may fail.
 :::
 
@@ -1002,7 +989,7 @@ Coartem is given with food or milk because lumefantrine has very poor bioavailab
 ### Artemether-Lumefantrine (Coartem) — 6-Dose Regimen Over 3 Days
 
 | Body Weight | Artemether/Lumefantrine per dose | Tablets per dose (20/120 mg) | Schedule |
-|------------------|------------------|------------------|------------------|
+|----|----|----|----|
 | 5–\<15 kg | 20/120 mg | 1 tab | 0, 8, 24, 36, 48, 60 h |
 | 15–\<25 kg | 40/240 mg | 2 tabs | 0, 8, 24, 36, 48, 60 h |
 | 25–\<35 kg | 60/360 mg | 3 tabs | 0, 8, 24, 36, 48, 60 h |
@@ -1013,7 +1000,7 @@ Coartem is given with food or milk because lumefantrine has very poor bioavailab
 ### Other Key ACT Dosing
 
 | Regimen | Adult dose | Key points |
-|------------------------|------------------------|------------------------|
+|----|----|----|
 | **Artesunate-amodiaquine** | AS 4 mg/kg/day + AQ 10 mg base/kg/day × 3 days | Fixed-dose combo available (ASAQ) |
 | **DHA-piperaquine** | DHA 4 mg/kg/day + PPQ 18 mg/kg/day × 3 days | Once daily; no food requirement; QTc prolongation risk |
 | **Artesunate-mefloquine** | AS 4 mg/kg/day × 3 days + MQ 8.3 mg base/kg/day × 3 days | MQ given on days 2–3 to reduce vomiting |
@@ -1023,7 +1010,7 @@ Coartem is given with food or milk because lumefantrine has very poor bioavailab
 ### Non-ACT Alternatives (when ACTs unavailable)
 
 | Regimen | Dosing | Indication |
-|------------------------|------------------------|------------------------|
+|----|----|----|
 | **Atovaquone-proguanil** (Malarone) | Adult: 4 tabs (1000/400 mg) daily × 3 days | Uncomplicated *Pf*; common in US/Europe |
 | **Quinine + doxycycline** | Quinine 650 mg (10 mg/kg) q8h × 3–7 days + doxy 100 mg BID × 7 days | Alternative; not in pregnancy/children \<8 y |
 | **Quinine + clindamycin** | Quinine 650 mg q8h × 3–7 days + clinda 20 mg/kg/day ÷ 3 doses × 7 days | Pregnancy-safe alternative to quinine-doxy |
@@ -1199,12 +1186,64 @@ Parasitemia may transiently **increase** in the first 12–24 hours of treatment
 The transient increase in parasitemia after starting artemisinins is a common source of anxiety for clinicians unfamiliar with malaria treatment. Artemisinins kill ring-stage parasites and cause de-sequestration of parasitized RBCs from the microvasculature, which temporarily increases the peripheral parasitemia. True treatment failure is defined by persistent parasitemia at 72 hours or recurrence within 28 days. In SE Asia, day 3 positivity rates are used as a sentinel for artemisinin resistance.
 :::
 
-------------------------------------------------------------------------
+## Monitoring treatment response {.center}
+
+<br>
+
+::::: columns
+::: {.column width="50%"}
+### Parasitemia Monitoring
+
+| Time Point           | Expected Response                         |
+|----------------------|-------------------------------------------|
+| **Baseline**         | Quantify parasitemia (parasites/μL)       |
+| **12 hours**         | Smear — trend should be downward          |
+| **24 hours**         | ≥50% reduction expected with ACTs         |
+| **48 hours**         | ≥75% reduction from baseline              |
+| **72 hours (Day 3)** | **Should be negative** with effective ACT |
+| **Day 7**            | Confirm clearance                         |
+| **Day 28**           | Check for recrudescence vs. reinfection   |
+
+<br>
+
+### Red Flags During Treatment
+
+-   **Day 3 parasitemia \>3%** (baseline \>100,000/μL) → suspect **artemisinin resistance**
+-   **Rising parasitemia** after initial decline → treatment failure
+-   **New organ dysfunction** despite falling parasitemia → ARDS (can worsen paradoxically after treatment)
+:::
+
+::: {.column width="50%"}
+### Additional Monitoring in Severe Malaria
+
+-   **Blood glucose**: q1–2h for first 24 h (hypoglycemia common, recurrent)
+-   **Hemoglobin**: daily (delayed hemolysis 7–14 days post-artesunate)
+-   **Lactate/base deficit**: best mortality predictor
+-   **Renal function**: creatinine, urine output
+-   **Fluid balance**: restrict IV fluids (FEAST trial)
+-   **Mental status**: serial GCS/Blantyre assessments
+
+<br>
+
+### Post-Artesunate Delayed Hemolysis (PADH)
+
+-   Occurs **7–31 days** after IV artesunate
+-   Most common in non-immune travelers with **hyperparasitemia**
+-   Mechanism: pitting of once-infected RBCs by spleen → delayed clearance
+-   Monitor Hb weekly for 4 weeks after severe malaria treatment
+:::
+:::::
+
+<br> <br>
+
+::: aside
+Post-artesunate delayed hemolysis (PADH) is increasingly recognized and can cause clinically significant anemia requiring transfusion. It happens because artesunate rapidly kills ring-stage parasites but leaves the damaged RBC membrane intact — the spleen then removes these "pitted" RBCs over the following weeks. Risk factors: high initial parasitemia (\>10%), non-immune status, prolonged IV artesunate course. Warn patients before discharge.
+:::
 
 ## Treatment in Pregnancy {.center}
 
 | Trimester | Preferred Treatment | Notes |
-|------------------------|------------------------|------------------------|
+|----|----|----|
 | **1st trimester** | Artemether-lumefantrine (if other options unavailable/not tolerated) | 42% lower risk of adverse pregnancy outcomes vs. quinine; CDC recommends if no alternatives |
 | **2nd–3rd trimester** | Artemether-lumefantrine | Preferred; well-studied safety profile |
 | **All trimesters** | Chloroquine (sensitive areas), quinine + clindamycin | Alternative options |
@@ -1243,7 +1282,7 @@ Pregnancy malaria is particularly dangerous due to placental sequestration of P.
 ### Management
 
 | Timing | Likely Cause | Action |
-|------------------------|------------------------|------------------------|
+|----|----|----|
 | **\<14 days** | Recrudescence (resistance or inadequate Rx) | Switch to a **different** ACT |
 | **14–28 days** | Probable recrudescence | Switch ACT; consider PCR genotyping |
 | **\>28 days** | Likely reinfection (endemic areas) | First-line ACT again |
@@ -1307,7 +1346,7 @@ At this dose, G6PD testing is **NOT required** (hemolysis risk negligible).
 ## TABLE 280.5 — Chemoprophylaxis: Drug Selection {.smaller .center}
 
 | Drug | Coverage | Adult Dose | Pediatric Dose | Timing | Key AEs / Contraindications |
-|------------|------------|------------|------------|------------|------------|
+|----|----|----|----|----|----|
 | **Atovaquone-proguanil** | All areas | 250/100 mg (1 tab) daily | 62.5/25 mg (¼ tab) daily (11–20 kg); 125/50 mg (½ tab) 21–30 kg; 187.5/75 mg (¾ tab) 31–40 kg; adult dose \>40 kg | 1–2 d before → 7 d after | GI upset; take with food; not in pregnancy or \<5 kg |
 | **Doxycycline** | All areas | 100 mg daily | 2.2 mg/kg/day (≥8 years only) | 1–2 d before → 4 wk after | Photosensitivity; esophagitis; not in pregnancy or \<8 y |
 | **Mefloquine** | All areas except SE Asia | 228 mg base weekly | 5 mg base/kg weekly (≥5 kg); max 228 mg | 1–2 wk before → 4 wk after | Neuropsych AEs; seizure hx; cardiac conduction defects |
@@ -1324,7 +1363,7 @@ Decision factors: (1) Where is the traveler going — resistance map is crucial.
 ## Antimalarial Side Effect Profiles {.smaller}
 
 | Drug | Common Side Effects | Serious / Rare Reactions | Counseling Points |
-|------------------|------------------|------------------|------------------|
+|----|----|----|----|
 | **Artemether-lumefantrine** | Headache, dizziness, nausea | QT prolongation (avoid with other QT-prolonging drugs) | Take with fatty food (↑ lumefantrine absorption by 2–3×) |
 | **Atovaquone-proguanil** | GI upset, headache | Rare: Stevens-Johnson syndrome | Take with food; avoid in severe renal failure (CrCl \<30) |
 | **Doxycycline** | Photosensitivity, GI upset, esophagitis | Rare: pseudotumor cerebri | Take upright with full glass of water; sunscreen essential |
@@ -1592,7 +1631,7 @@ Co-infections are a major clinical challenge in tropical medicine. The malaria-H
 ### Next-Generation Vaccine Approaches
 
 | Approach | Stage | Target | Key Feature |
-|------------------|------------------|------------------|------------------|
+|----|----|----|----|
 | **PfSPZ Vaccine** (Sanaria) | Phase 2 | Whole sporozoites | Attenuated radiation; requires IV route and cold chain |
 | **PfSPZ-CVac** | Phase 2 | Live sporozoites + CQ | Controlled human malaria infection approach |
 | **mRNA-CSP vaccines** | Phase 1 | CSP | Moderna, BioNTech platforms; rapid manufacturing |
@@ -1705,7 +1744,7 @@ The chloroquine story is one of the great cautionary tales in infectious disease
 ## Global Antimalarial Drug Policy by Region {.smaller}
 
 | WHO Region | First-Line ACT | Key Considerations |
-|------------------------|------------------------|------------------------|
+|----|----|----|
 | Sub-Saharan Africa | AL or ASAQ | K13 mutations emerging in East Africa (Rwanda, Uganda) |
 | Southeast Asia | DHA-PPQ or AL | Highest rates of artemisinin + partner drug resistance |
 | South Asia | AL or ASAQ | Generally good ACT efficacy |

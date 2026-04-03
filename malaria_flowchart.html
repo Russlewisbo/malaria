@@ -1,0 +1,131 @@
+
+<figure style="font-family: sans-serif; font-size: 0.85em; max-width: 700px; margin: auto;">
+
+<style>
+  .flow-box {
+    border: 2px solid #2c7bb6;
+    border-radius: 6px;
+    padding: 8px 14px;
+    background: #eaf4fb;
+    text-align: center;
+    display: inline-block;
+  }
+  .flow-box.decision {
+    background: #fff3cd;
+    border-color: #e6a817;
+    transform: rotate(0deg);
+  }
+  .flow-box.action {
+    background: #d4edda;
+    border-color: #28a745;
+  }
+  .flow-box.urgent {
+    background: #f8d7da;
+    border-color: #dc3545;
+  }
+  .flow-box.start {
+    background: #d0e8ff;
+    border-color: #1a5c99;
+    font-weight: bold;
+  }
+  .arrow {
+    text-align: center;
+    color: #555;
+    font-size: 1.2em;
+    line-height: 1;
+    margin: 2px 0;
+  }
+  .flow-row {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    align-items: flex-start;
+    margin: 4px 0;
+  }
+  .flow-col {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 4px;
+    flex: 1;
+  }
+  .label {
+    font-size: 0.85em;
+    font-weight: bold;
+    color: #555;
+  }
+  .horiz-arrow {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    color: #555;
+  }
+  .branch-line {
+    border-top: 2px solid #aaa;
+    flex: 1;
+  }
+</style>
+
+<!-- Start -->
+<div style="display:flex; flex-direction:column; align-items:center; gap:4px;">
+
+  <div class="flow-box start">Malaria confirmed or strongly suspected</div>
+  <div class="arrow">↓</div>
+
+  <div class="flow-box decision">Is the patient <strong>SEVERE</strong>?<br><small>(WHO criteria, or unable to take oral medications)</small></div>
+  <div class="arrow">↓</div>
+
+  <!-- YES / NO split -->
+  <div style="display:flex; width:90%; justify-content:space-around; align-items:flex-start; margin-top:4px;">
+
+    <!-- YES branch -->
+    <div class="flow-col">
+      <span class="label" style="color:#dc3545;">YES</span>
+      <div class="arrow">↓</div>
+      <div class="flow-box urgent"><strong>IV artesunate</strong><br><small>(emergency)</small></div>
+    </div>
+
+    <!-- NO branch -->
+    <div class="flow-col">
+      <span class="label" style="color:#28a745;">NO</span>
+      <div class="arrow">↓</div>
+      <div class="flow-box decision">What <strong>species</strong> + <strong>where acquired</strong>?</div>
+      <div class="arrow">↓</div>
+
+      <!-- Species split -->
+      <div style="display:flex; width:100%; justify-content:space-around; align-items:flex-start; margin-top:2px;">
+
+        <!-- Falciparum -->
+        <div class="flow-col">
+          <span class="label" style="color:#c0392b; font-size:0.82em;"><em>P. falciparum</em><br>(or unknown)</span>
+          <div class="arrow">↓</div>
+          <div class="flow-box decision">Chloroquine-<br>resistant area?</div>
+          <div class="arrow">↓</div>
+          <div class="flow-box action"><strong>ACT</strong> (1st line)</div>
+          <div style="margin-top:4px;" class="flow-box decision">Chloroquine-<br>sensitive area?</div>
+          <div class="arrow">↓</div>
+          <div class="flow-box action"><strong>Chloroquine</strong></div>
+        </div>
+
+        <!-- Non-falciparum -->
+        <div class="flow-col">
+          <span class="label" style="color:#1a5c99; font-size:0.82em;">Non-falciparum<br><small>(<em>P. vivax, P. ovale,<br>P. malariae, P. knowlesi</em>)</small></span>
+          <div class="arrow">↓</div>
+          <div class="flow-box action">
+            <strong>Chloroquine</strong> (if sensitive)<br>
+            <strong>OR ACT</strong><br>
+            <small>+ Primaquine / tafenoquine<br>for <em>P. vivax / P. ovale</em></small>
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<figcaption style="text-align:center; margin-top:12px; color:#555; font-size:0.82em;">
+  Figure: Simplified malaria treatment algorithm. ACT = artemisinin-based combination therapy.
+</figcaption>
+</figure>
+
