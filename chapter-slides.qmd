@@ -1446,7 +1446,7 @@ IPTp is one of the most cost-effective maternal health interventions in sub-Saha
 :::
 ::::::
 
-<br> <br>
+<br> <br> <br> <br>
 
 ::: aside
 IPTp and SMC are two of the highest-impact malaria interventions in endemic settings. IPTp-SP at ANC visits is cheap, safe, and reduces neonatal mortality by 20–30% in moderate-high transmission settings. The key barrier is ANC attendance — women who don't attend clinic don't get IPTp. For SMC, the main concern is drug resistance — widespread SP+AQ use could select for resistance, though surveillance to date hasn't shown major increases. PMC is the newer WHO term for what was previously IPTi — giving SP at EPI contacts.
@@ -1531,7 +1531,7 @@ Anopheles mosquitoes bite predominantly between dusk and dawn — this is differ
 :::
 :::::
 
-## G6PD Deficiency and Antimalarials {.center}
+## G6PD deficiency and antimalarials {.center}
 
 <br>
 
@@ -1567,13 +1567,14 @@ G6PD activity is **falsely elevated** during acute hemolysis or reticulocytosis.
 ::::
 ::::::
 
+<br> <br> <br> <br>
+
 ::: aside
 G6PD testing is one of the biggest barriers to radical cure deployment globally. In many endemic settings, G6PD testing is simply not available, which means patients with *P. vivax* don't receive primaquine and continue to relapse. The WHO now recommends G6PD testing before 8-aminoquinoline use, with reduced-dose weekly primaquine (0.75 mg/kg) as an alternative for G6PD-deficient patients — the weekly dose allows RBC recovery between doses. Tafenoquine's long half-life makes it more dangerous in G6PD deficiency because you can't simply stop the drug to halt hemolysis.
 :::
 
--   
 
-## Malaria and Co-Infections {.smaller}
+## Malaria and Co-infections 
 
 <br>
 
@@ -1614,21 +1615,20 @@ Never assume a single diagnosis in a febrile returned traveler. Blood cultures, 
 ::::
 ::::::
 
-::: aside
-Co-infections are a major clinical challenge in tropical medicine. The malaria-HIV interaction is particularly important in sub-Saharan Africa where both diseases are highly prevalent. Drug interactions between antimalarials and antiretrovirals are complex and clinicians should consult updated interaction databases. The association of malaria with non-typhoidal *Salmonella* bacteremia in African children is thought to relate to malaria-induced hemolysis releasing free heme, which impairs neutrophil oxidative burst. In the returned traveler, always think broadly about the differential — dengue and malaria can co-exist.
-:::
+<br> <br> <br> <br>
+
+
 
 ## Malaria vaccines: A new era {.center}
 
 ![](images_malaria/vaccine.png){fig-align="center"}
 
+
 ## Malaria vaccines
 
 <br>
 
-::::: columns
-::: {.column width="50%"}
-### RTS,S/AS01 (Mosquirix)
+**RTS,S/AS01 (Mosquirix)**
 
 -   **WHO recommended 2021** for children in endemic areas
 -   Based on *P. falciparum* circumsporozoite protein (CSP) fused to hepatitis B surface antigen + AS01 adjuvant
@@ -1639,10 +1639,12 @@ Co-infections are a major clinical challenge in tropical medicine. The malaria-H
 -   **4-dose schedule**: 3 doses at monthly intervals (age 5–9 mo), booster at 15–18 months
 -   Does NOT provide sterilizing immunity — reduces episodes, not infection
 -   **\>6 million doses** deployed by end of 2024 across Ghana, Kenya, Malawi, Cameroon, and others [@RTS2015Efficacy]
-:::
 
-::: {.column width="50%"}
-### R21/Matrix-M
+## Malaria vaccines
+
+<br>
+
+**R21/Matrix-M**
 
 -   **WHO recommended and prequalified October 2023**
 -   Also targets CSP, but with **higher CSP:HBsAg ratio** + Matrix-M (saponin) adjuvant
@@ -1653,8 +1655,7 @@ Co-infections are a major clinical challenge in tropical medicine. The malaria-H
 -   **4-dose schedule**: 3 monthly doses + booster at 12 months
 -   Advantages: **lower cost** (\~\$2–4/dose vs \$9–10 for RTS,S), **easier manufacturing** (higher yield), **thermostable at 40°C** for extended periods
 -   Serum Institute of India plans **100+ million doses/year** [@R21Datoo2023]
-:::
-:::::
+
 
 ## Vaccine pipeline and monoclonal antibodies {.center}
 
@@ -1747,7 +1748,7 @@ The geographic spread of artemisinin resistance to East Africa is alarming. If r
 In the 17th century, Europeans learned that the bark of the cinchona tree contained quinine, a compound effective against malaria. By the 18th–19th centuries, quinine was widely used by Europeans living in tropical regions, especially British colonial officers in India. The problem? Quinine tastes extremely bitter.During the era of the British Raj, British soldiers and administrators were required to take quinine regularly as a preventive measure against malaria.To make it tolerable, they mixed it with: water, sugar and lime. This early version of “tonic water” was basically medicinal. Adding gin to the bitter quinine mixture made it far more enjoyable.
 :::
 
-## Chloroquine resistance: Decline and recovery {.smaller}
+## Chloroquine resistance: Decline and recovery
 
 <br> <br>
 
@@ -1787,7 +1788,9 @@ In the 17th century, Europeans learned that the bark of the cinchona tree contai
 The chloroquine story is one of the great cautionary tales in infectious diseases. The global spread of CQ resistance caused a massive increase in malaria mortality in Africa in the 1980s-1990s. The recovery of CQ sensitivity suggests that strategic drug rotation could be feasible. The concern is whether artemisinin-resistant parasites will follow the same fitness-cost pattern, or whether compensatory mutations will allow them to maintain resistance without fitness penalty. Triple ACTs (adding a third partner drug) are being tested in clinical trials to try to overwhelm resistance mechanisms.
 :::
 
-## Global antimalarial drug policy by region {.smaller}
+## Global antimalarial drug policy by region
+
+<br>
 
 | WHO Region | First-Line ACT | Key Considerations |
 |------------------------|------------------------|------------------------|
@@ -1807,7 +1810,9 @@ AL = artemether-lumefantrine; ASAQ = artesunate-amodiaquine; DHA-PPQ = dihydroar
 The choice of ACT varies by region based on resistance patterns. The WHO recommends that countries change first-line ACT when treatment failure rates exceed 10% at day 28 follow-up.
 :::
 
-## Vector control: Challenges and innovation {.smaller}
+## Vector control: Challenges and innovation
+
+<br>
 
 ::::: columns
 ::: {.column width="50%"}
@@ -1843,7 +1848,7 @@ The choice of ACT varies by region based on resistance patterns. The WHO recomme
 Vector control has historically been the most impactful intervention against malaria. The insecticide resistance crisis threatens to undo decades of progress. The dual-AI nets (like Interceptor G2 with chlorfenapyr) showed a 46% reduction in malaria prevalence compared to standard pyrethroid nets in a major trial in Tanzania. The spread of *An. stephensi* across the Horn of Africa is particularly concerning — this species breeds efficiently in urban water containers, unlike traditional African vectors, and could bring malaria into densely populated cities that have historically been malaria-free. Gene drive is exciting but faces major regulatory, ethical, and ecological questions.
 :::
 
-## Non-Falciparum malaria: Unique challenges 
+## Non-Falciparum malaria: Unique challenges
 
 <br>
 
@@ -1890,8 +1895,6 @@ Vector control has historically been the most impactful intervention against mal
 *P. vivax* is the second most important species globally and the dominant species outside Africa (especially South Asia, SE Asia, Central/South America). The hypnozoite stage makes elimination much harder — you must treat not just the blood-stage infection but also the dormant liver forms. The introduction of tafenoquine as a single-dose radical cure is a major advance, but the absolute requirement for G6PD testing (and a quantitative test, not just qualitative) before administration limits its deployment in resource-limited settings. *P. knowlesi* should always be considered in travelers returning from forested areas of SE Asia — it can be rapidly fatal if misidentified as P. malariae.
 :::
 
-
-
 ## Malaria elimination: Where are we? {.center}
 
 <br> <br>
@@ -1931,7 +1934,6 @@ Global malaria cases **increased** from 2019–2023, partly due to COVID-19 disr
 ::::
 ::::::
 
-
 ## Approach to the febrile returned traveler {.center}
 
 ::: callout-important
@@ -1954,14 +1956,11 @@ Global malaria cases **increased** from 2019–2023, partly due to COVID-19 disr
 -   Patient visited friends and relatives — often do not seek pre-travel advice, less likely to use chemoprophylaxis
 -   Patient returned months ago — *P. vivax*, *P. ovale* relapse, *P. malariae* recrudescence
 
-
 <br> <br> <br>
 
 ::: aside
 The VFR (visiting friends and relatives) traveler group accounts for a large proportion of imported malaria cases. They often feel falsely immune, don't take prophylaxis, and delay seeking care. Ask specifically about adherence to chemoprophylaxis — many patients stop early, take doses irregularly, or misunderstand the post-travel continuation period.
 :::
-
-
 
 ## Key summary points {.center}
 
@@ -2004,8 +2003,7 @@ The VFR (visiting friends and relatives) traveler group accounts for a large pro
 **Fever in any traveler returning from a malaria-endemic area = malaria until proven otherwise. Test immediately, treat promptly, hospitalize non-immune patients.**
 :::
 
-# Backup slides {background-color="#9B0014"}
-
+# Additional slides {background-color="#9B0014"}
 
 ## Malaria: History highlights {.center}
 
@@ -2052,9 +2050,9 @@ Tu Youyou received the Nobel Prize in Physiology or Medicine (2015) for discover
 When funding and political commitment aligned in the 2000s-2010s (PEPFAR, PMI, Global Fund), remarkable progress was made. The stalling of progress since 2015 is partly due to funding constraints, artemisinin resistance, and insecticide resistance. The WHO Global Technical Strategy 2016-2030 aims to reduce malaria incidence and mortality by 90%.
 :::
 
-
-
 ## Case: Febrile Returned Traveler {.center}
+
+<br>
 
 ### Case Presentation
 
@@ -2070,8 +2068,6 @@ A 35-year-old woman presents with 3 days of high fever (40°C), headache, myalgi
 Walk through this case step by step. Answers: Species = P. falciparum (multiple rings, banana gametocytes, no Schüffner's dots). Severity criteria met: impaired perfusion/shock (BP 95/60), SpO2 94% (approaching threshold), renal impairment (creatinine \>3 mg/dL threshold — wait, creatinine is 2.1 vs. baseline 0.8, so \>2x increase = AKI as poor prognostic sign), jaundice (bilirubin 4.2 mg/dL), hyperparasitemia approaching 10%, thrombocytopenia. Treatment: IV artesunate immediately, contact CDC hotline, hospitalize in ICU, monitor for further deterioration.
 :::
 
-
-
 ## Case Discussion {.center}
 
 ### Questions
@@ -2082,7 +2078,7 @@ Walk through this case step by step. Answers: Species = P. falciparum (multiple 
 2.  **Does she meet WHO severe malaria criteria?**
     -   Yes: renal impairment (creatinine \>2× baseline), jaundice, pulmonary compromise (SpO₂ 94%), shock (BP 95/60), parasitemia approaching hyperparasitemia threshold
 3.  **What is the immediate treatment?**
-    -   **IV artesunate** (contact CDC Malaria Hotline if not immediately available: 770-488-7788)
+    -   **IV artesunate** 
     -   ICU admission; seizure precautions; IV fluid management (restrictive)
     -   Empiric broad-spectrum antibiotics (fever + shock = possible bacterial co-infection)
     -   Bedside glucose monitoring (quinine-induced hypoglycemia risk)
@@ -2090,8 +2086,6 @@ Walk through this case step by step. Answers: Species = P. falciparum (multiple 
     -   Once parasitemia ≤1% and tolerating oral: artemether-lumefantrine (complete course)
     -   No hypnozoite treatment needed for *P. falciparum*
 :::
-
-
 
 ------------------------------------------------------------------------
 
@@ -2102,18 +2096,10 @@ Walk through this case step by step. Answers: Species = P. falciparum (multiple 
 ### Key Guidelines
 
 -   WHO Guidelines for Malaria, October 2023 ([link](https://www.who.int/publications/i/item/guidelines-for-malaria))
--   CDC Treatment Guidelines, revised 2023 ([link](https://www.cdc.gov/malaria/hcp/clinical-guidance/general-treatment.html))
--   CDC Yellow Book 2024 ([link](https://wwwnc.cdc.gov/travel/yellowbook/2024/infections-diseases/malaria))
 
-### Emergency Contact
-
--   **CDC Malaria Hotline**: 770-488-7788 (Mon–Fri 9 am–5 pm ET)
--   **After hours**: 770-488-7100
 
 ### Surveillance
-
 -   Malaria Atlas Project: [malariaatlas.org](https://malariaatlas.org/)
--   CDC DPDx: [cdc.gov/dpdx/malaria](https://www.cdc.gov/dpdx/malaria/index.html)
 :::
 
 ::: {.column width="50%"}
@@ -2130,3 +2116,7 @@ Parikh S, Taylor T. Chapter 280: Malaria (*Plasmodium* Species). In: Bennett JE,
 -   Maitland K et al. *NEJM* 2011 (FEAST trial)
 :::
 :::::
+
+## References
+
+<br>
