@@ -413,7 +413,6 @@ Malaria has shaped more human genetic diversity than any other infectious diseas
 -   Mortality **15–20%** even with optimal treatment
 -   10–15% of survivors: persistent neurological sequelae <br>
 
-<br>
 
 ### Severe malarial anemia
 
@@ -432,7 +431,7 @@ Malaria has shaped more human genetic diversity than any other infectious diseas
     -   Check glucose **q1–2h** for first 24 hours
 -   **AKI**: ATN pattern; hemoglobinuria ("blackwater fever"); often requires dialysis
 
-<br>
+
 
 ### Pulmonary
 
@@ -440,7 +439,7 @@ Malaria has shaped more human genetic diversity than any other infectious diseas
 -   Can develop **after** parasite clearance
 -   Restrict IV fluids (FEAST trial lesson)
 
-<br>
+
 
 ### Other
 
@@ -500,7 +499,7 @@ Metabolic acidosis is the single best predictor of death — better than parasit
 ::::
 ::::::
 
-<br> <br> <br> <br> <br>
+<br> <br> <br> 
 
 ::: aside
 Pregnancy-associated malaria is a major cause of maternal and neonatal morbidity in sub-Saharan Africa. In 2022, 36% of pregnancies in 33 moderate-high transmission African countries were exposed to malaria. The VAR2CSA explains why first pregnancies are most affected and why protection develops with parity. IPTp-SP is one of the most cost-effective interventions in global health.ANC-Antenatal care visit; IPTp-SP- Intermittent Preventive Treatment in Pregnancy with Sulfadoxine-Pyrimethamine;LLIN- Long lasting insecticidal net, ACT- Artemisinin-based Combination Therapy; AL- Artemether-Lumefantrin
@@ -549,7 +548,7 @@ Critical receptor for *P. vivax* invasion
 
 <br>
 
-## *P. ovale*
+### *P. ovale*
 
 -   Two sibling species (curtisi, wallikeri)
     -   Cannot be distinguished clinically, only by molecular methods <br>
@@ -593,7 +592,8 @@ Clinical pearl: A patient who returned from West Africa 2 years ago with fever �
 :::
 :::::
 
-<br> <br> <br>
+<br> <br> 
+
 ::: aside
 *P. malariae* causing decades-long infection is clinically important: A patient who emigrated from a malaria-endemic region 20 years ago can still have P. malariae. P. knowlesi is a diagnostic trap — it looks like *P. malariae* on microscopy but has a 24-hour cycle. If you see P. malariae morphology in a patient from SE Asia, you must confirm with PCR. The 24-hour cycle means the patient can look fine in the morning and be in multi-organ failure by evening.
 :::
@@ -682,7 +682,7 @@ All non-immune travelers from a malaria-endemic area within the past 3 months wh
 -   Headache, myalgia, arthralgia, malaise, fatigue
 -   Nausea, vomiting, abdominal pain
 -   Mild splenomegaly with repeated infections
-<br>
+
 
 ### The classic paroxysm (rare at presentation)
 
@@ -690,7 +690,7 @@ All non-immune travelers from a malaria-endemic area within the past 3 months wh
 2.  **Hot stage**: high fever, headache, vomiting (2–6 h)
 3.  **Sweating stage**: profuse sweating, fatigue (2–4 h)
 
-<br>
+
 
 ### What Is Typically ABSENT
 
@@ -699,7 +699,7 @@ All non-immune travelers from a malaria-endemic area within the past 3 months wh
 -   Rash
 -   Lymphadenopathy
 
-<br> <br>
+<br> <br> <br>
 
 ::: aside
 The classic paroxysm occurs only when infection is synchronous, which takes several days to develop. Most patients at presentation have continuous or irregular fever. The absence of respiratory symptoms is a helpful distinguishing feature from viral URTI, but many patients will initially be diagnosed as viral illness.
