@@ -699,7 +699,7 @@ All non-immune travelers from a malaria-endemic area within the past 3 months wh
 -   Rash
 -   Lymphadenopathy
 
-<br> <br> <br>
+<br> <br> <br> <br>
 
 ::: aside
 The classic paroxysm occurs only when infection is synchronous, which takes several days to develop. Most patients at presentation have continuous or irregular fever. The absence of respiratory symptoms is a helpful distinguishing feature from viral URTI, but many patients will initially be diagnosed as viral illness.
@@ -708,6 +708,7 @@ The classic paroxysm occurs only when infection is synchronous, which takes seve
 
 
 ## WHO Severe Malaria Criteria (Part 1) {.center}
+<br> <br>
 
 **One or more of the following, with parasitemia, excluding alternative causes:**
 
@@ -727,6 +728,7 @@ The classic paroxysm occurs only when infection is synchronous, which takes seve
 ------------------------------------------------------------------------
 
 ## WHO Severe Malaria Criteria (Part 2) {.center}
+<br> <br>
 
 | Manifestation | Threshold |
 |------------------------------------|------------------------------------|
@@ -741,11 +743,12 @@ The classic paroxysm occurs only when infection is synchronous, which takes seve
 **In severe malaria: START TREATMENT FIRST. Diagnostic confirmation is important but should not delay therapy.**
 :::
 
-::: notes
-Emphasize that the WHO criteria are highly sensitive but not very specific — many patients will meet criteria based on fever + any of these signs. The criteria are valuable for guiding treatment intensity and monitoring. Also stress that non-immune individuals may have severe malaria even at very low parasitemias. Malarial retinopathy improves specificity for cerebral malaria diagnosis specifically.
+<br> <br> <br>
+::: aside
+WHO criteria are highly sensitive but not very specific — many patients will meet criteria based on fever + any of these signs. The criteria are valuable for guiding treatment intensity and monitoring. Non-immune individuals may have severe malaria even at very low parasitemias. Malarial retinopathy improves specificity for cerebral malaria diagnosis specifically.
 :::
 
-------------------------------------------------------------------------
+
 
 ## Parasite Morphology: Species Differentiation {.center}
 
