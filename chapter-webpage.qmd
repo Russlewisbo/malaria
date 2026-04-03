@@ -1,7 +1,5 @@
 ---
 title: "Malaria (*Plasmodium* Species)"
-author:
-  - name: Russell Lewis
 date: "2025"
 format:
   html:
